@@ -63,6 +63,10 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20161,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20161,ANTH 800,RESEARCH AND THESIS,"Howe, Cymene", TBA TBA,3 TO 9
 23397,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23397,ANTH 800,RESEARCH AND THESIS,"Ballestero, Andrea", TBA TBA,3 TO 9
 21467,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21467,ANTH 800,RESEARCH AND THESIS,"Boyer, Dominic C.", TBA TBA,3 TO 9
+22951,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22951,APPL 007,VISITING RESEARCH,"Hazzard, Kaden", TBA TBA,0
+22952,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22952,APPL 007,VISITING RESEARCH,"Zhu, Hanyu", TBA TBA,0
+22953,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22953,APPL 007,VISITING RESEARCH,"Igoshin, Oleg", TBA TBA,0
+23398,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23398,APPL 007,VISITING RESEARCH,"Pimpinelli, Alberto F.", TBA TBA,0
 22954,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22954,APPL 750,INTERNATIONAL RESEARCH INTERN,,,3
 20721,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20721,APPL 800,RESEARCH AND THESIS,"Tkaczyk, Tomasz", TBA TBA,1 TO 15
 21506,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21506,APPL 800,RESEARCH AND THESIS,"Richards-Kortum, Rebecca R.", TBA TBA,1 TO 15
@@ -185,6 +189,8 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20010,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20010,ASTR 500,GRADUATE RESEARCH SEMINAR,"Baring, Matthew G.",12:00PM - 12:50PM W HBH 227,1
 23639,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23639,ASTR 503,ASTRONOMY FOR TEACHERS,"Reiff, Pat",6:00PM - 8:50PM M HBH 223,3
 23638,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23638,ASTR 508,STATISTICS IN PHYS AND ASTR,"Hartigan, Patrick M.",1:00PM - 1:50PM MWF HBH 254,3
+24145,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24145,BIOC 007,VISITING RESEARCH,"Tao, Yizhi J.", TBA TBA,0
+24146,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24146,BIOC 007,VISITING RESEARCH,"Tao, Yizhi J.", TBA TBA,0
 22147,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22147,BIOC 122,BIOLOGY FOR VOTERS,"Caprette, David",10:50AM - 12:05PM TR RZR 119,3
 22374,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22374,BIOC 129,BRAINSTEM,"Flynn, Jonathan R.","2:50PM - 4:59PM R TBA TBA
 5:30PM - 6:30PM M TBA TBA",1
@@ -261,6 +267,14 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 22867,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22867,BIOC 311,ADV EXPERIMENTAL BIOSCIENCES,"Beason-Abmayr, Beth",1:00PM - 4:59PM W ABL 126,2
 22868,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22868,BIOC 311,ADV EXPERIMENTAL BIOSCIENCES,"Beason-Abmayr, Beth",1:00PM - 4:59PM R ABL 126,2
 23415,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23415,BIOC 313,EXPERIMENTAL SYNTHETIC BIOL,"Beason-Abmayr, Beth",1:00PM - 3:59PM MF ABL 126,2
+20781,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20781,BIOC 318,MICROBIOLOGY LABORATORY,"Caprette, David",1:00PM - 4:50PM MW ABL 127,1
+20782,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20782,BIOC 318,MICROBIOLOGY LABORATORY,"Caprette, David",1:00PM - 4:50PM TR ABL 127,1
+20285,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20285,BIOC 320,LABORATORY IN TISSUE CULTURE,"Ghosn, Bilal","1:00PM - 5:50PM MW BRC 232
+2:00PM - 2:50PM F BRC 282",1
+20286,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20286,BIOC 320,LABORATORY IN TISSUE CULTURE,"Li, David","1:00PM - 5:50PM TR BRC 232
+2:00PM - 2:50PM F BRC 282",1
+23850,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23850,BIOC 320,LABORATORY IN TISSUE CULTURE,"Ghosn, Bilal","1:00PM - 5:50PM MW BRC 232
+2:00PM - 2:50PM F BRC 282",1
 20287,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20287,BIOC 334,EVOLUTION,"Egan, Scott P.",10:00AM - 10:50AM MWF KCK 102,3
 20671,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20671,BIOC 335,CELL & MOL ANIMAL PHYSIOLOGY,"Beason-Abmayr, Beth; Caprette, David",9:25AM - 10:40AM TR RZR 123,3
 20505,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20505,BIOC 341,CELL BIOLOGY,"Beckingham, Kathleen M.",9:25AM - 10:40AM TR KWG 100,3
@@ -307,6 +321,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 24369,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24369,BIOC 402,UNDERGRADUATE HONORS RESEARCH,"Bashor, Caleb J.", TBA TBA,5
 24092,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24092,BIOC 403,PHYSICAL BIOLOGY,"Bennett, Matthew",1:00PM - 2:15PM TR KCK 101,3
 20882,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20882,BIOC 412,UNDERGRADUATE RESEARCH SEMINAR,"McNew, James A.",3:00PM - 3:50PM F GRB W211,1
+20780,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20780,BIOC 415,EXPERIMENTAL PHYSIOLOGY,"Caprette, David",1:00PM - 4:50PM MW ABL 127,1
 20456,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20456,BIOC 424,MICROBIOLOGY & BIOTECHNOLOGY,"Bennett, George N.",9:25AM - 10:40AM TR GRB W211,3
 22375,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22375,BIOC 442,BEHAVIORAL NEUROSCIENCE,"Flynn, Jonathan R.",9:25AM - 10:40AM TR GRW 160A,3
 20672,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20672,BIOC 443,NEURODEVELOPMENT,"Lwigale, Peter Y.",1:00PM - 2:15PM TR GRB W211,3
@@ -315,6 +330,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20301,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20301,BIOC 460,CANCER BIOLOGY,"Uribe, Rosa A.",2:30PM - 3:45PM TR GRB W211,3
 24091,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24091,BIOC 501,PHYSICAL BIOLOGY,"Bennett, Matthew",1:00PM - 2:15PM TR KCK 101,3
 20506,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20506,BIOC 524,MICROBIOLOGY & BIOTECHNOLOGY,"Bennett, George N.",9:25AM - 10:40AM TR GRB W211,3
+20291,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20291,BIOC 530,LAB MOD NMR SPECTROSCOPY&MOLEC,"Nikonowicz, Edward P.",1:00PM - 3:50PM TR KCK 308,1
 22877,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22877,BIOC 534,EVOLUTION,"Egan, Scott P.",10:00AM - 10:50AM MWF KCK 102,3
 21333,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21333,BIOC 536,CELL & MOL ANIMAL PHYSIOLOGY,"Beason-Abmayr, Beth; Caprette, David",9:25AM - 10:40AM TR RZR 123,3
 20673,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20673,BIOC 544,NEURODEVELOPMENT,"Lwigale, Peter Y.",1:00PM - 2:15PM TR GRB W211,3
@@ -363,6 +379,8 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20856,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20856,BIOC 611,RESEARCH SEMINAR,"Levine, Herbert; Farach-Carson, Cindy", TBA TBA,1
 24371,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24371,BIOC 611,RESEARCH SEMINAR,"Bashor, Caleb J.", TBA TBA,1
 24372,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24372,BIOC 611,RESEARCH SEMINAR,"Hilton, Isaac B.", TBA TBA,1
+20370,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20370,BIOC 701,GRADUATE LAB RESEARCH I,"Bartel, Bonnie", TBA TBA,2 TO 4
+20371,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20371,BIOC 702,GRADUATE LAB RESEARCH II,"Bartel, Bonnie", TBA TBA,2 TO 4
 20862,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20862,BIOC 800,BCB GRADUATE RESEARCH,"Warmflash, Aryeh", TBA TBA,1 TO 15
 20723,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20723,BIOC 800,BCB GRADUATE RESEARCH,"Bartel, Bonnie", TBA TBA,1 TO 15
 20724,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20724,BIOC 800,BCB GRADUATE RESEARCH,"Beckingham, Kathleen M.", TBA TBA,1 TO 15
@@ -396,6 +414,11 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20863,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20863,BIOC 800,BCB GRADUATE RESEARCH,"Levine, Herbert; Farach-Carson, Cindy", TBA TBA,1 TO 15
 24375,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24375,BIOC 800,BCB GRADUATE RESEARCH,"Bashor, Caleb J.", TBA TBA,1 TO 15
 24376,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24376,BIOC 800,BCB GRADUATE RESEARCH,"Hilton, Isaac B.", TBA TBA,1 TO 15
+23233,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23233,BIOE 007,VISITING RESEARCH,"Bao, Gang", TBA TBA,0
+23236,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23236,BIOE 007,VISITING RESEARCH,"Deem, Michael W.", TBA TBA,0
+23237,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23237,BIOE 007,VISITING RESEARCH,"Deem, Michael W.", TBA TBA,0
+23919,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23919,BIOE 007,VISITING RESEARCH,"Zhang, David Y.", TBA TBA,0
+23920,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23920,BIOE 007,VISITING RESEARCH,"Zhang, David Y.", TBA TBA,0
 20139,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20139,BIOE 320,SYSTEMS PHYSIOLOGY LAB MODULE,"Li, David",1:00PM - 3:50PM M BRC 230,1
 21075,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21075,BIOE 320,SYSTEMS PHYSIOLOGY LAB MODULE,"Li, David",1:00PM - 3:50PM W BRC 230,1
 20140,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20140,BIOE 320,SYSTEMS PHYSIOLOGY LAB MODULE,"Li, David",4:00PM - 6:50PM W BRC 230,1
@@ -404,6 +427,12 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 23822,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23822,BIOE 330,BIOREACTION ENGINEERING,"San, Ka-Yiu",10:50AM - 12:05PM TR BRC 282,3
 20142,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20142,BIOE 332,BIOENGINEERING THERMODYNAMICS,"Tabor, Jeffrey",10:00AM - 10:50AM MWF BRC 282,3
 24071,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24071,BIOE 341,CELL & MOL BIOL FOR ENGINEERS,"Segatori, Laura",11:00AM - 12:15PM MW BRC 286,3
+20364,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20364,BIOE 342,LABORATORY IN TISSUE CULTURE,"Ghosn, Bilal","1:00PM - 5:50PM MW BRC 232
+2:00PM - 2:50PM F BRC 282",1
+20366,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20366,BIOE 342,LABORATORY IN TISSUE CULTURE,"Li, David","1:00PM - 5:50PM TR BRC 232
+2:00PM - 2:50PM F BRC 282",1
+23823,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23823,BIOE 342,LABORATORY IN TISSUE CULTURE,"Ghosn, Bilal","1:00PM - 5:50PM MW BRC 232
+2:00PM - 2:50PM F BRC 282",1
 24069,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24069,BIOE 348,MOLECULAR TECHNIQUES IN BIOE,"Ghosn, Bilal",1:00PM - 2:15PM TR BRC 284,3
 20372,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20372,BIOE 360,APPRO DESIGN FOR GLOBAL HEALTH,"Bond, Meaghan M.; Richards-Kortum, Rebecca R.",2:30PM - 3:45PM TR BRC 284,3
 20143,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20143,BIOE 372,BIOMECHANICS,"Grande-Allen, K. Jane",9:25AM - 10:40AM TR BRC 282,3
@@ -411,6 +440,8 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 9:00AM - 9:50AM F BRC 282",3
 20144,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20144,BIOE 400,ENGINEERING UG RESEARCH,"Ghosn, Bilal", TBA TBA,1 TO 4
 24437,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24437,BIOE 401,UNDERGRADUATE RESEARCH,"Ghosn, Bilal", TBA TBA,1 TO 4
+22387,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22387,BIOE 447,DIG DES & VIS,"Ghosn, Bilal",2:30PM - 6:29PM TR OED 112,1
+24077,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24077,BIOE 449,MED BIOENGINEERING WORKSHOP,"Ramos, Renata F.",1:00PM - 6:00PM T BRC 230,1
 20346,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20346,BIOE 452,BIOENGINEERING DESIGN II,"Abidi, Sabia Z.",8:30AM - 9:50AM MWF OED 114,3
 20377,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20377,BIOE 484,BIOPHOTONICS INSTRUMENTATION,"Tkaczyk, Tomasz",1:00PM - 2:15PM TR BRC 282,3
 24342,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24342,BIOE 486,FUND MEDICAL IMAGING II,"Mawlawi, Osama",4:00PM - 6:50PM R BRC 285,3
@@ -447,6 +478,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 24094,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24094,BIOE 502,PHYSICAL BIOLOGY,"Bennett, Matthew",1:00PM - 2:15PM TR KCK 101,3
 24439,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24439,BIOE 505,MACROMOLECULAR ASSEMBLIES,"Lu, George",2:00PM - 4:50PM F BRC 286,3
 22092,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22092,BIOE 506,GRADUATE INDEPENDENT STUDY,"Raphael, Rob", TBA TBA,1 TO 6
+22523,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22523,BIOE 506,GRADUATE INDEPENDENT STUDY,"Igoshin, Oleg", TBA TBA,1 TO 6
 22884,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22884,BIOE 506,GRADUATE INDEPENDENT STUDY,"Clifton, Will", TBA TBA,1 TO 6
 23086,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23086,BIOE 506,GRADUATE INDEPENDENT STUDY,"Tkaczyk, Tomasz", TBA TBA,1 TO 6
 23318,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23318,BIOE 506,GRADUATE INDEPENDENT STUDY,"Veiseh, Omid", TBA TBA,1 TO 6
@@ -466,6 +498,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 22887,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22887,BIOE 587,OPTIC IMAGING/NANOBIOPHOTONICS,"Drezek, Rebekah A.",1:00PM - 3:30PM F BRC 285,3
 24345,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24345,BIOE 596,FUND MEDICAL IMAGING II,"Mawlawi, Osama",4:00PM - 6:50PM R BRC 285,3
 20476,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20476,BIOE 620,TISSUE ENGINEERING,"Mikos, Antonios G.; Guo, Jason L.",11:00AM - 12:15PM MWF BRC 284,3
+24325,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24325,BIOE 633,LIFE SCIENCE ENTREPRENEURSHIP,"Gill, Jack M.; Cherukuri, Paul; Clifton, Will",4:00PM - 6:00PM MW BRC 103,1.5
 24079,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24079,BIOE 648,MOLECULAR TECHNIQUES IN BIOENG,"Ghosn, Bilal",1:00PM - 2:15PM TR BRC 284,3
 22293,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22293,BIOE 680,NANO-NEUROTECHNOLOGY,"Robinson, Jacob T.",2:00PM - 4:29PM W BRC 875,3
 20146,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20146,BIOE 699,BIOENGINEERING COLLOQUIA,"Veiseh, Omid; Bashor, Caleb J.",4:00PM - 4:50PM T BRC 280,1
@@ -499,6 +532,10 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 24468,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24468,BUSI 532,ANALYTICAL RESEARCH IN ACCT,"Hemmer, Thomas",10:30AM - 1:30PM S MCN 318,3
 20561,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20561,BUSI 533,CONTEMPORARY ACCT. RES. TOPICS,"Sivaramakrishnan, Shiva",10:00AM - 12:50PM W MCN 406,3
 22052,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22052,BUSI 541,STRATEGY II,"Zhang, Anthea",9:00AM - 11:59AM F MCN 406,3
+23868,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23868,BUSI 550,CORP SOCIAL RESPONSIBILITY,"Windsor, Duane",2:30PM - 5:30PM R MCN 406,1.5
+23869,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23869,BUSI 551,STRATEGY RESEARCH IN CORP DEV,"Kale, Prashant","1:00PM - 4:00PM W TBA TBA
+1:00PM - 4:00PM W TBA TBA
+3:00PM - 6:00PM R TBA TBA",1.5
 22359,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22359,BUSI 800,PHD RESEARCH,"Rountree, Brian R.", TBA TBA,1 TO 12
 22360,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22360,BUSI 800,PHD RESEARCH,"Back, Kerry E.", TBA TBA,1 TO 12
 22361,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22361,BUSI 800,PHD RESEARCH,"Borle, Sharad W.", TBA TBA,1 TO 12
@@ -557,6 +594,8 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 21802,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21802,CAAM 800,RESEARCH AND THESIS,"Schaefer, Andrew", TBA TBA,1 TO 15
 21803,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21803,CAAM 800,RESEARCH AND THESIS,"Tapia, Richard A.", TBA TBA,1 TO 15
 23830,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23830,CAAM 800,RESEARCH AND THESIS,"Zhang, Yin", TBA TBA,1 TO 15
+23231,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23231,CEVE 007,VISITING RESEARCH,"Alvarez, Pedro J.", TBA TBA,0
+23232,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23232,CEVE 007,VISITING RESEARCH,"Alvarez, Pedro J.", TBA TBA,0
 23424,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23424,CEVE 210,WILD TOPICS CHEM AND NANOTECH,"Tour, James M.",3:00PM - 3:50PM F DBH 180,1
 22563,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22563,CEVE 301,ENG ECONOMICS & PROJECT MGMT,"Segner, Ed",2:00PM - 4:30PM M MEL 254,3
 20077,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20077,CEVE 307,ENERGY AND THE ENVIRONMENT,"Cohan, Daniel S.",9:25AM - 10:40AM TR MEL 251,3
@@ -697,6 +736,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 23355,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23355,CHBE 800,GRADUATE RESEARCH,"Marciel, Amanda B.", TBA TBA,1 TO 15
 23422,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23422,CHBE 800,GRADUATE RESEARCH,"Silberg, Joff", TBA TBA,1 TO 15
 24463,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24463,CHBE 800,GRADUATE RESEARCH,"Landes, Christy F.", TBA TBA,1 TO 15
+24151,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24151,CHEM 007,VISITING RESEARCH,"Xiao, Han", TBA TBA,0
 20042,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20042,CHEM 122,GENERAL CHEMISTRY II,"Hutchinson, John S.",9:00AM - 9:50AM MWF DBH 180,3
 20600,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20600,CHEM 122,GENERAL CHEMISTRY II,"Kincaid, Kristi",10:00AM - 10:50AM MWF BRK 101,3
 20592,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20592,CHEM 122,GENERAL CHEMISTRY II,"Hutchinson, John S.",1:00PM - 1:50PM MWF DBH 180,3
@@ -813,6 +853,24 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 23436,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23436,CLAS 316,DEMOCRACY & POLITICAL THEORY,"Yunis, Harvey",2:30PM - 3:45PM TR RZR 204,3
 24381,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24381,CLAS 494,SENIOR THESIS,"Somerville, Ted", TBA TBA,3
 24114,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24114,CMST 203,INTRODUCTION TO FILM ANALYSIS,"Blumenthal-Barby, Martin",10:50AM - 12:05PM TR RZR 123,3
+24117,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24117,COLL 108,SURVIVOR: SOCIAL STRATEGIES,"Huang, Yunnie",7:00PM - 8:00PM M RZR 123,1
+24118,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24118,COLL 110,THE AMERICAN MICROBREWERY,"Egerton, Trevor J.",7:00PM - 8:00PM W HUM 118,1
+24119,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24119,COLL 111,THE HAPPINESS CLASS,"Hickey, Kristen L.",7:00PM - 8:00PM T RZR 106,1
+24120,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24120,COLL 114,CREATIVITY,"Ibrahim, Amna Y.",7:00PM - 8:00PM R RZR 113,1
+24121,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24121,COLL 115,HOUSTON FOOD AND IMMIGRATION,"Lee, Justin Y.",7:00PM - 8:00PM W DCH 1075,1
+24122,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24122,COLL 116,CANTONESE LANGUAGE & CULTURE,"Yu, Kathy",6:45PM - 7:45PM W RZR 106,1
+24124,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24124,COLL 118,VEGAN TREATS AND SINFUL SWEETS,"Jennings, Cassie; Alexander, Robert M.",6:00PM - 7:00PM T TBA TBA,1
+24126,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24126,COLL 119,KEEP ABREAST WITH YOUR CHEST,"Wieland, Lily",7:00PM - 8:00PM T RZR 304,1
+24128,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24128,COLL 120,SYNTHETIC BIOLOGY,"Cherif, Zakaria Y.",7:00PM - 8:00PM W DCH 1046,1
+24129,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24129,COLL 121,CONSPIRACY THEORIES,"Tyler, Lucas B.",7:00PM - 8:00PM W RZR 305,1
+24130,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24130,COLL 123,K-POP AND SOCIETY,"Clark, Zoe C.",7:00PM - 8:00PM R RZR 106,1
+24131,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24131,COLL 124,LoL INFRASTRUCTURE & STATUS,"Nandakumar, Dhruv",4:00PM - 5:00PM W HUM 119,1
+24132,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24132,COLL 126,FASHION FURIOUS,"Ton, Mai",7:00PM - 8:00PM W RZR 123,1
+24134,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24134,COLL 132,MATHEMATICAL ORIGAMI DESIGN,"Cofer, Savannah A.",7:00PM - 8:00PM W RZR 113,1
+24135,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24135,COLL 142,HOUSTON MICROBREWERIES,"Genung, Friday; Nelson, Davis V.",6:30PM - 7:30PM W MCM PDR,1
+24136,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24136,COLL 149,STAND-UP (COMEDY) FOR YOURSELF,"Aggarwal, Vikram A.; Wagle, Keshav N.",8:00PM - 9:00PM T RZR 113,1
+24137,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24137,COLL 168,INTRO TO SKIN,"Cardenas, Adam",7:00PM - 8:00PM W HUM 119,1
+24138,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24138,COLL 177,DISABILITIES AND DISORDERS,"Cannell, Keegan D.",7:00PM - 8:00PM M RZR 113,1
 20427,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20427,COLL 200,TEACHING PRACTICUM - BAKER,"Duno-Gottberg, Luis", TBA TBA,1
 20428,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20428,COLL 200,TEACHING PRACTICUM - BROWN,"Fregly, BJ", TBA TBA,1
 20429,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20429,COLL 200,TEACHING PRACTICUM - DUNCAN,"McDaniel, Caleb; McDaniel, Brandy", TBA TBA,1
@@ -825,14 +883,17 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20436,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20436,COLL 200,TEACHING PRACTICUM - SID RICH,"Achard, Michel J.", TBA TBA,1
 20437,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20437,COLL 200,TEACHING PRACTICUM - WIESS,"Schaefer, Andrew", TBA TBA,1
 20602,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20602,COLL 200,TEACHING PRACT FYF PEER GUIDES,"Lopez, Araceli", TBA TBA,1
+20645,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20645,COLL 200,TEACHING PRACTICUM-O-WEEK DIR.,"Lopez, Araceli", TBA TBA,1
 24139,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24139,COLL 202,COOKING WITH CHEF ROGER,"Elkhouri, Roger E.",6:00PM - 8:30PM R TBA TBA,1
 24140,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24140,COLL 217,BUSINESS WRKSHP F HUM STUDENTS,"Spector, Brian H.",7:00PM - 8:00PM M HUM 226,1
 24143,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24143,COLL 219,BORDER WALL,"Donatti, David A.",4:00PM - 5:00PM R RZR 305,1
 24361,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24361,COLL 220,WILLIAM MARSH RICE & SLAVERY,"McDaniel, Caleb",2:30PM - 3:45PM T HUM 315,1
 24365,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24365,COLL 221,BLACK EXPERIENCE AT RICE,"Byrd, Alexander X.",7:00PM - 9:00PM R HUM 327,1
+20590,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20590,COLL 300,PEDAGOGY FOR STDNT INSTRUCTORS,"Kowalik, Ania; Stickney, Christopher A.",2:30PM - 3:59PM T HRG 129,1
 24083,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24083,COMM 239,RHETORIC AND POPULAR WRITING,"Cummins-Munoz, Elizabeth A.",11:00AM - 11:50AM MWF KRF 102,3
 21740,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21740,COMM 300,COMMUNICATION IN DIGITAL AGE,"Klein, Andrew A.",7:00PM - 9:50PM M HUM 118,3
 24163,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24163,COMP 002,DATA SCIENCE PROJ APPLICATION,"Allen, Genevera I.",5:00PM - 6:29PM MW RZR 119,4
+24520,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24520,COMP 007,VISITING RESEARCH,"Palem, Krishna V.", TBA TBA,0
 22339,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22339,COMP 140,COMPUTATIONAL THINKING,"Schreib, Rebecca J.",1:00PM - 2:15PM TR BRK 101,4
 20305,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20305,COMP 182,ALGORITHMIC THINKING,"Nakhleh, Luay","10:50AM - 12:05PM TR HRZ AMP
 11:00AM - 12:15PM F BRK 101",4
@@ -1014,7 +1075,12 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20469,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20469,DSRT 999,DISSERTATION/THESIS SUBMISSION,"Matsuda, Seiichi P.", TBA TBA,0
 20281,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20281,EBIO 202,INTRODUCTORY BIOLOGY II,"Solomon, Scott E.",9:00AM - 9:50AM MWF BRK 101,3
 20282,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20282,EBIO 204,COMMUNITY GARDEN,"Novak, Joseph R.",4:00PM - 4:50PM R GRB W211,1
+22875,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22875,EBIO 213,INTRO EXP ECOL & EVOL BIOL,"Solomon, Scott E.","1:00PM - 4:50PM T ABL 124
+2:00PM - 2:50PM M SST 106",2
+22876,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22876,EBIO 213,INTRO EXP ECOL & EVOL BIOL,"Solomon, Scott E.","1:00PM - 4:50PM W ABL 124
+2:00PM - 2:50PM M SST 106",2
 21084,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21084,EBIO 215,BIOS LAB TEACHING,"Solomon, Scott E.", TBA TBA,1 TO 3
+21680,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21680,EBIO 215,BIOS LAB TEACHING,"Solomon, Scott E.", TBA TBA,1 TO 3
 20595,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20595,EBIO 270,ECOSYSTEM MANAGEMENT,"Hartley, Maria K.; Siemann, Evan H.",4:00PM - 6:50PM R HBH 427,3
 20969,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20969,EBIO 306,EEB UNDERGRADUATES IND RES,"Dunham, Amy E.", TBA TBA,1 TO 3
 20984,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20984,EBIO 306,EEB UNDERGRADUATES IND RES,"Egan, Scott P.", TBA TBA,1 TO 3
@@ -1182,6 +1248,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20848,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20848,EDUC 570,FLD-BASED STDY TEACH & LRNG,"Radigan, Judy A.",6:00PM - 8:59PM R TBA TBA,1 TO 6
 21267,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21267,EDUC 595,CAPSTONE,"Radigan, Judy A.", TBA TBA,3
 22607,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22607,EDUC 597,PRACTICUM FOR PRINCIPALS,"Amstutz, Steven",6:00PM - 8:59PM T ACC 300,3
+24426,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24426,ELEC 007,VISITING RESEARCH,"Knightly, Edward W.", TBA TBA,0
 22490,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22490,ELEC 220,FUND COMPUTER ENGINEERING,"Simar, Ray","9:25AM - 10:40AM TR DCH 1055
 4:00PM - 5:50PM T BRK 101",4
 22491,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22491,ELEC 220,FUND COMPUTER ENGINEERING,"Simar, Ray","9:25AM - 10:40AM TR DCH 1055
@@ -1311,6 +1378,26 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 24407,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24407,ELEC 800,RESEARCH AND THESIS,"O'Malley, Marcia K.", TBA TBA,1 TO 15
 24417,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24417,ELEC 800,RESEARCH AND THESIS,"Luan, Lan", TBA TBA,1 TO 15
 24418,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24418,ELEC 800,RESEARCH AND THESIS,"Xie, Chong", TBA TBA,1 TO 15
+24285,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24285,EMBA 912,EXECUTIVE SEMINAR II,"Porter, Constance E.","8:00AM - 6:00PM S MCN 314
+3:45PM - 6:00PM F MCN 314
+3:45PM - 6:00PM F MCN 314
+1:30PM - 6:00PM S MCN 314
+8:00AM - 6:00PM S MCN 314
+1:30PM - 3:45PM F TBA TBA
+1:30PM - 6:00PM S MCN 314
+8:00AM - 10:15AM F MCN 314
+1:30PM - 6:00PM F MCN 314",3
+24295,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24295,EMBA 914,EXECUTIVE SEMINAR IV,"Smith, Brent; Kale, Prashant","8:00AM - 10:15AM F MCN 312
+8:00AM - 6:00PM F TBA TBA
+8:00AM - 10:15AM S TBA TBA
+8:00AM - 12:30PM F MCN 312
+1:30PM - 3:45PM F MCN 312
+1:30PM - 6:00PM S MCN 312",1.5
+24291,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24291,EMBA 922,MANAGING GLOBAL FIRM: STRATEGY,"Zhang, Anthea","8:00AM - 12:30PM F MCN 312
+1:30PM - 6:00PM F MCN 312
+8:00AM - 12:30PM F MCN 312
+8:00AM - 10:00AM F MCN 312
+1:30PM - 6:00PM F MCN 312",1.5
 20884,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20884,EMSP 281,EMT-B INTRO TO EMERGENCY CARE,"Herrod, Trent E.; Basgall, Lisa M.; Muniz, Mario A.",6:00PM - 9:50PM MW KCK 101,3
 20912,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20912,EMSP 375,EMS INCHARGE LEADERSHIP COURSE,"Basgall, Lisa M.", TBA TBA,3
 20885,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20885,EMSP 491,EMS RESEARCH COURSE,"Basgall, Lisa M.", TBA TBA,3
@@ -1534,6 +1621,43 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 24331,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24331,FREN 403,SPECIAL TOPICS,"Couti, Jacqueline", TBA TBA,1 TO 5
 24445,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24445,FREN 403,SPECIAL TOPICS,"Nelson-Campbell, Deborah H.", TBA TBA,1 TO 5
 24023,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24023,FREN 460,"WOMEN, FRENCH FICTION, HISTORY","Harter, Deborah A.",1:00PM - 3:29PM F HUM 120,3
+23481,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23481,FWIS 104,"SCIENCE, TECHNOLOGY, & SOCIETY","MacDonnell, Kevin T.",10:00AM - 10:50AM MWF KRF 120,3
+23482,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23482,FWIS 109,ART AND ENVIRONMENT,"Dib, Lina",1:00PM - 2:15PM TR MCA 103,3
+23483,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23483,FWIS 109,ART AND ENVIRONMENT,"Dib, Lina",2:30PM - 3:45PM TR MCA 103,3
+23484,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23484,FWIS 112,"FICTION, HISTORY, TEJAS","Cummins-Munoz, Elizabeth A.",9:25AM - 10:40AM TR RZR 305,3
+23485,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23485,FWIS 112,"FICTION, HISTORY, TEJAS","Cummins-Munoz, Elizabeth A.",10:50AM - 12:05PM TR RZR 305,3
+23486,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23486,FWIS 113,"RACE, POLICY, & RACIAL CHANGE","Marschall, Melissa J.",10:50AM - 12:05PM TR RZR 204,3
+23487,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23487,FWIS 120,FICTION AND EMPATHY,"Nixon, Burke T.",1:00PM - 1:50PM MWF GRW 220,3
+23879,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23879,FWIS 121,TIME TRAVEL NARRATIVES,"Richardson, Laura K.",4:00PM - 5:15PM TR RZR 304,3
+23489,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23489,FWIS 123,STAR WARS  & WRITING CULTURE,"Messmer, David K.",11:00AM - 11:50AM MWF MCA 103,3
+22368,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22368,FWIS 128,INNER DIMENSIONS,"Belik, Katerina",2:30PM - 3:45PM TR KCK 105,3
+23880,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23880,FWIS 130,WRITING EVERYDAY LIFE,"Dib, Lina",10:50AM - 12:05PM TR MCA 103,3
+23973,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23973,FWIS 134,BUSINESS ENVIRONMENT,"Hampton, Lawrence P.",9:25AM - 10:40AM TR RZR 113,3
+24007,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24007,FWIS 137,POP MUSIC & AMERICAN CULTURE,"Klein, Andrew A.",4:00PM - 5:15PM MW KRF 120,3
+23493,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23493,FWIS 138,MINDFULNESS AND MEDICINE,"Hagan, Jade",2:00PM - 3:15PM MW KCK 101,3
+22210,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22210,FWIS 141,LITERATURE AND ENVIRONMENT,"Hagan, Jade",1:00PM - 1:50PM MWF KCK 101,3
+23494,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23494,FWIS 148,THE DIRTY THIRTIES,"Richardson, Laura K.",2:30PM - 3:45PM TR RZR 304,3
+23496,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23496,FWIS 151,MODERN CASTAWAYS,"Celeste, Mark",1:00PM - 1:50PM MWF KRF 102,3
+21268,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21268,FWIS 152,THE SCIENCE OF SUPPLEMENTS,"Purugganan, Mary",10:50AM - 12:05PM TR KCK 105,3
+23497,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23497,FWIS 153,INVESTIGATING STOLEN BOOKS,"Pladus, Mallory",1:00PM - 1:50PM MWF HUM 328,3
+23967,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23967,FWIS 155,GROWING PAINS,"Nixon, Burke T.",2:00PM - 2:50PM MWF GRW 220,3
+23968,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23968,FWIS 155,GROWING PAINS,"Nixon, Burke T.",3:00PM - 3:50PM MWF GRW 220,3
+23498,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23498,FWIS 156,SPEECH AND COMM IN HOMER,"Mackie, Hilary S.",2:30PM - 3:45PM TR RZR 227,3
+23013,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23013,FWIS 160,GLOBAL ENGLISH,"Bharadwaj, Vasudha",10:00AM - 10:50AM MWF RZR 302,3
+23499,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23499,FWIS 161,DETECTIVES & DETECTIONS,"Pett, Scott A.",9:00AM - 9:50AM MWF RZR 304,3
+23500,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23500,FWIS 162,CRITICAL THINKING IN DEMOCRACY,"Hutchinson, John S.; Hutchinson, Paula K.",1:00PM - 2:15PM TR WSC 146,3
+23972,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23972,FWIS 165,SCIENCE FICTION & SHAKESPEARE,"Sherrier, Lindsay E.",4:00PM - 5:15PM TR RZR 204,3
+20811,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20811,FWIS 168,BUILDING DESIGN PROBLEMS,"Fleishacker, Alan L.",1:00PM - 2:15PM TR ANH 117,3
+23931,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23931,FWIS 174,POSTCOLONIAL VOICES,"Celeste, Mark",3:00PM - 3:50PM MWF KRF 102,3
+23501,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23501,FWIS 181,DECONSTRUCTING HOUSTON RODEO,"Steinberg, Alan F.",9:00AM - 9:50AM MWF HUM 118,3
+23502,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23502,FWIS 184,BASEBALL AND AMERICAN IDENTITY,"Wilson, Clint",11:00AM - 11:50AM MWF GRW 220,3
+23912,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23912,FWIS 185,CONTEMPORARY AMERICAN POETRY,"Klein, Andrew A.",2:00PM - 3:15PM MW MLC 101,3
+22335,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22335,FWIS 188,ENG DESIGN & COMMUNICATION,"Hunter, Deirdre",10:50AM - 12:05PM TR OED 114,3
+24542,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24542,FWIS 188,ENG DESIGN & COMMUNICATION,"Wettergreen, Matthew A.",10:50AM - 12:05PM TR TBA TBA,3
+23936,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23936,FWIS 191,MIGRANT EXPERIENCES,"Henry, Brittany A.",1:00PM - 2:15PM TR RZR 205,3
+22212,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22212,FWIS 195,ART AND WAR,"Celeste, Jane E.",9:25AM - 10:40AM TR MCA 237,3
+23503,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23503,FWIS 196,CONSCIOUSNESS AND VALUE,"Lee, Andrew Y.",9:25AM - 10:40AM TR RZR 204,3
+23504,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23504,FWIS 197,SCIENCE OR PSEUDOSCIENCE?,"Cone, Michael T.",4:00PM - 4:50PM MWF BRK 103,3
 23913,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23913,GERM 141,FIRST YEAR GERMAN I,"Kley, Katharina",10:00AM - 10:50AM MWF HUM 226,3
 21099,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21099,GERM 142,FIRST YEAR GERMAN II,"Baig, Fatima",9:00AM - 9:50AM MWF KCK 101,3
 21100,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21100,GERM 142,FIRST YEAR GERMAN II,"Baig, Fatima",10:00AM - 10:50AM MWF KCK 101,3
@@ -1545,9 +1669,12 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 23441,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23441,GERM 338,NEW GERM FILM: HITLER'S CINEMA,"Blumenthal-Barby, Martin",9:25AM - 10:40AM TR HUM 119,3
 21915,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21915,GERM 340,WALTER BENJAMIN,"Steiner, Uwe W.",2:30PM - 3:45PM TR HRG 128,3
 23519,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23519,GERM 345,"GERMAN HISTORY, 1890-1945","Caldwell, Carl",10:00AM - 10:50AM MWF HUM 119,3
+24544,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24544,GERM 399,THE GERMAN STUDIES INTERNSHIP,"Oesmann, Astrid", TBA TBA,3
 23914,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23914,GERM 402,GERMAN TRANSLATION,"Baig, Fatima",2:00PM - 2:50PM MWF RZR 302,3
 24538,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24538,GERM 492,SPRING-IND WRK GERM LITERATURE,"Weissenberger, Klaus H.", TBA TBA,1 TO 3
 24503,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24503,GERM 541,1ST YR GERMAN I FOR GRAD STUD,"Kley, Katharina",11:00AM - 12:15PM MW BKH 229,3
+23930,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23930,GLBL 502,INSTITUTIONS & DEVELOPMENT,"Jones, Mark P.",6:00PM - 8:59PM R KRF 125,1.5
+23075,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23075,GLBL 515,CONTEMP. US FOREIGN POLICY,"Barnes, Joe",6:00PM - 8:59PM R BKH 102,1.5
 21999,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21999,GLBL 519,MASTER GLOBAL AFFAIRS INTRNSHP,"Jones, Mark P.", TBA TBA,1 TO 6
 21311,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21311,GLBL 520,MASTER GLOBAL AFFAIRS CAPSTONE,"Jones, Mark P.", TBA TBA,3
 24408,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24408,GLBL 521,DIR READING IN GLOBAL AFFAIRS,"Jones, Mark P.", TBA TBA,3
@@ -1556,6 +1683,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20373,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20373,GLHT 360,APPRO DESIGN FOR GLOBAL HEALTH,"Bond, Meaghan M.; Richards-Kortum, Rebecca R.",2:30PM - 3:45PM TR BRC 284,3
 20267,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20267,GLHT 400,GLHT INDEPENDENT RESEARCH,"Oden, Z. Maria; Richards-Kortum, Rebecca R.", TBA TBA,1 TO 3
 20688,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20688,GLHT 401,GLHT RESEARCH REPORTING,"Richards-Kortum, Rebecca R.", TBA TBA,1
+24078,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24078,GLHT 449,MED BIOENGINEERING WORKSHOP,"Ramos, Renata F.",1:00PM - 6:00PM T BRC 230,1
 20327,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20327,GLHT 452,GLOBAL HEALTH DESIGN II,"Gobin, Andi",8:30AM - 9:50AM MWF OED 114,3
 23310,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23310,GLHT 452,GLOBAL HEALTH DESIGN II,, TBA TBA,3
 21335,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21335,GLHT 464,SOCIAL ENTREPRENEURSHIP,"Schuler, Doug",10:50AM - 12:05PM TR MCN 214,3
@@ -1657,6 +1785,8 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 22041,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22041,HEAL 499,TEACH PRACTICUM HEALTH SCIENCE,"Hughes, Daniel C.", TBA TBA,1 TO 3
 24467,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24467,HEAL 499,TEACH PRACTICUM HEALTH SCIENCE,"Esparza, Angelina", TBA TBA,1 TO 3
 21272,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21272,HEAL 522,THEORY&MODELS HLTH BEHAVIOR,"Perkins, Heidi Y.",9:00AM - 9:50AM MWF BKH 102,3
+24153,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24153,HIST 007,VISITING RESEARCH,"Matusow, Allen J.", TBA TBA,0
+24154,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24154,HIST 007,VISITING RESEARCH,"Matusow, Allen J.", TBA TBA,0
 23505,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23505,HIST 102,"MODERN EUROPE, 1789-PRESENT","Cohen, Daniel",9:00AM - 9:50AM MWF HUM 119,3
 24070,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24070,HIST 109,THE HERO AND HIS COMPANION,"Maas, Michael R.",7:00PM - 9:29PM W HUM 227,3
 21813,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21813,HIST 118,UNITED STATES 1848-PRESENT,"McCall, Keith D.",2:30PM - 3:45PM TR SEW 460,3
@@ -1720,6 +1850,8 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 23440,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23440,HUMA 372,GERMAN FAIRY TALE: OLD & NEW,"Weissenberger, Klaus H.",1:00PM - 2:15PM TR RZR 123,3
 23442,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23442,HUMA 373,NEW GERM FILM: HITLER'S CINEMA,"Blumenthal-Barby, Martin",9:25AM - 10:40AM TR HUM 119,3
 24449,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24449,HUMA 477,MORAL LEADERSHIP IN ECONOMICS,"Hackett, Jim",2:00PM - 4:29PM M SEW 460,3
+23241,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23241,HURC 007,VISITING RESEARCH,"El-Dahdah, Fares", TBA TBA,0
+23242,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23242,HURC 007,VISITING RESEARCH,"El-Dahdah, Fares", TBA TBA,0
 23808,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23808,HURC 304,HRC SUPERVISED RESEARCH,"Mulligan, John C.",12:00PM - 12:59PM F TBA TBA,1 TO 3
 23917,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23917,HURC 341,MUSEUMS AND HERITAGE,"Heath-Stout, Laura E.; Spadafora, Claire E.",4:00PM - 5:15PM MW RZR 123,3
 21281,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21281,HURC 423,PRACTICUM IN CULTURAL HERITAGE,"Heath-Stout, Laura E.",12:00PM - 12:50PM W HRG 224,3
@@ -1812,6 +1944,56 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20564,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20564,LING 590,TEACHING LINGUISTICS,"Englebretson, Robert E.", TBA TBA,3 TO 6
 24461,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24461,LING 590,TEACHING LINGUISTICS,"Achard, Michel J.", TBA TBA,3 TO 6
 20545,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20545,LING 800,DISSERTATION RESEARCH,"Englebretson, Robert E.", TBA TBA,1 TO 12
+23534,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23534,LPAP 101,STRETCH LAB,"Bobet, Jacqueline A.",2:00PM - 2:50PM MW TBA TBA,1
+24032,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24032,LPAP 101,STRETCH LAB,"Bobet, Jacqueline A.",2:30PM - 3:20PM TR TBA TBA,1
+23535,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23535,LPAP 102,PENCAK SILAT,"Lewis, Kai-Johann; Slator, Elizabeth A.",9:00AM - 9:50AM MW TBA TBA,1
+23017,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23017,LPAP 107,INTERMEDIATE TENNIS,"McGee, D'Ondra",9:25AM - 10:15AM TR TBA TBA,1
+24038,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24038,LPAP 109,INTRO TO FOXTROT AND WALTZ,"Banta, Jill B.",11:00AM - 11:59AM TR TBA TBA,1
+20180,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20180,LPAP 110,INTRODUCTION TO GOLF,"Barron, John C.",9:25AM - 10:15AM TR GRW 220,1
+22656,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22656,LPAP 110,INTRODUCTION TO GOLF,"Barron, John C.",9:00AM - 9:50AM MW GRW 220,1
+23207,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23207,LPAP 113,MENTAL TRAINING,"Oliveira, Marcia",5:00PM - 6:40PM M GRW 160A,1
+20217,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20217,LPAP 118,INTRODUCTION TO TEAM SPORTS,"Watkins, Chris",3:00PM - 3:50PM MW TBA TBA,1
+20260,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20260,LPAP 120,DISC GAMES,"Cortez, Kris",4:00PM - 5:40PM T TBA TBA,1
+20652,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20652,LPAP 135,INTRODUCTION TO DANCE,"Bobet, Jacqueline A.",4:00PM - 4:50PM MW TBA TBA,1
+22659,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22659,LPAP 137,INTRO TO EAST COAST SWING,"Banta, Jill B.",1:00PM - 1:59PM TR TBA TBA,1
+24039,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24039,LPAP 138,INTRO TO SALSA/MAMBO & CHA CHA,"Banta, Jill B.",2:30PM - 3:29PM TR TBA TBA,1
+24040,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24040,LPAP 145,INTER COUNTRY WESTERN DANCE,"Banta, Jill B.",4:00PM - 4:59PM TR TBA TBA,1
+20827,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20827,LPAP 151,THE ALEXANDER TECHNIQUE,"Rarick, Janet L.",3:00PM - 4:40PM T TBA TBA,1
+20449,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20449,LPAP 155,INTRODUCTION TO BALLET,"Peck, Bryan B.",11:00AM - 11:50AM MW TBA TBA,1
+22285,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22285,LPAP 157,JAZZ DANCE/HIP HOP,"Bobet, Jacqueline A.",4:00PM - 4:50PM TR TBA TBA,1
+23195,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23195,LPAP 164,FITNESS SWIMMING,"Rodriguez, Jessica L.",1:00PM - 1:50PM MW TBA TBA,1
+23307,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23307,LPAP 164,FITNESS SWIMMING,"McInnis, Dalton J.",11:00AM - 11:50AM TR TBA TBA,1
+23308,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23308,LPAP 166,BEGINNING SWIMMING,"McInnis, Dalton J.",9:25AM - 10:15AM TR TBA TBA,1
+20219,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20219,LPAP 170,YOGA,"Buergermeister, Jennifer R.",2:00PM - 2:50PM MW TBA TBA,1
+20220,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20220,LPAP 170,YOGA,"Buergermeister, Jennifer R.",3:00PM - 3:50PM MW TBA TBA,1
+20221,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20221,LPAP 172,INTRODUCTION TO FENCING,"Soliman, Khaled",1:00PM - 1:50PM MW TBA TBA,1
+20573,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20573,LPAP 175,INTRO TO MARTIAL ARTS,"Wu, Ernie",9:25AM - 10:15AM TR TBA TBA,1
+20828,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20828,LPAP 178,THE ART OF RELAXATION,"Buergermeister, Jennifer R.",4:00PM - 4:50PM MW TBA TBA,1
+20222,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20222,LPAP 180,"WALK, JOG, RUN","Oliveira, Marcia",6:00PM - 6:50PM TR TBA TBA,1
+23206,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23206,LPAP 181,PERSONAL FITNESS,"Oliveira, Marcia",5:00PM - 5:50PM TR TBA TBA,1
+20223,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20223,LPAP 182,WEIGHT TRAINING,"Broadstone, Dave",9:25AM - 10:15AM TR TBA TBA,1
+22661,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22661,LPAP 183,WEIGHT TRAINING & CONDITIONING,"Faris, Alex",8:00AM - 8:50AM MW TBA TBA,1
+20224,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20224,LPAP 186,PILATES,"Leach, Crissy",1:00PM - 1:50PM TR TBA TBA,1
+20225,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20225,LPAP 186,PILATES,"Leach, Crissy",2:00PM - 2:50PM TR TBA TBA,1
+22901,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22901,LPAP 192,EXERCISE & WEIGHT MANAGEMENT,"Faris, Alex",9:00AM - 9:50AM MW TBA TBA,1
+21118,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21118,LPAP 194,SCUBA,"Baber, Jim",6:30PM - 9:59PM W GRW 160A,1
+22274,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22274,LPAP 195,CRITICAL THINKING IN SEXUALITY,"Councill, Cathryn A.",1:00PM - 1:50PM T GRW 160A,1
+22275,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22275,LPAP 195,CRITICAL THINKING IN SEXUALITY,"McMorris, Saralyn D.",1:00PM - 1:50PM W GRW 160A,1
+22276,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22276,LPAP 195,CRITICAL THINKING IN SEXUALITY,"Guerrero, Janie",1:00PM - 1:50PM R GRW 160A,1
+24383,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24383,LPAP 195,CRITICAL THINKING IN SEXUALITY,"Everett, Jordan P.",11:00AM - 11:50AM W GRW 160A,1
+20397,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20397,LPAP 198,NUTRITION,"Hastings, Lisa",5:00PM - 6:40PM W GRW 220,1
+24147,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24147,MACC 502,BUSINESS LAW FOR ACCOUNTANTS,"Butler, Lee Ann E.","12:30PM - 2:00PM TR MCN 317
+12:30PM - 2:00PM TR MCN 317",3
+24150,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24150,MACC 503,ACCTING & AUDITING REGULATION,"Ramesh, Kris", TBA TBA,1.5
+24148,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24148,MACC 513,ISSUES IN FIN REPORTING III,"Zeff, Stephen A.","12:30PM - 2:00PM MW MCN 216
+12:30PM - 2:00PM MW MCN 216",3
+24159,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24159,MACC 531,ADVANCED MGMT ACCOUNTING,"Ballew, Hailey B.",8:00AM - 9:30AM TR MCN 317,1.5
+24157,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24157,MACC 541,ACCOUNTING CONTROL SYSTEMS,"Drakey, Kelly M.",10:00AM - 3:00PM MTWRF MCN 216,1.5
+24160,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24160,MACC 542,ADVANCED AUDITING,"Drakey, Kelly M.",9:45AM - 11:15AM MW MCN 317,1.5
+24158,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24158,MACC 562,ACCOUNTING & DATA ANALYTICS,"Cheek, Danielle S.",9:45AM - 11:15AM MW MCN 317,1.5
+24161,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24161,MACC 572,FEDERAL TAXATION II,"Viebig, Dick",4:00PM - 5:30PM MW MCN 317,1.5
+24149,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24149,MACC 591,ACCOUNTING THEORY,"Zeff, Stephen A.","9:45AM - 11:15AM TR MCN 216
+9:45AM - 11:15AM TR MCN 216",3
 23544,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23544,MATH 101,SINGLE VARIABLE CALCULUS I,"Tamburelli, Andrea",11:00AM - 11:50AM MWF RZR 119,3
 22671,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22671,MATH 102,SINGLE VARIABLE CALCULUS II,"Valfells, Asgeir",9:00AM - 9:50AM MWF HBH 427,3
 22378,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22378,MATH 102,SINGLE VARIABLE CALCULUS II,"Gao, Zhiyong",10:00AM - 10:50AM MWF HRZ 210,3
@@ -1894,6 +2076,9 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 24473,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24473,MDHM 201,INTRO TO MEDICAL HUMANITIES,"Mitchell, Beverly M.",4:00PM - 5:15PM TR SEW 460,3
 22528,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22528,MDHM 403,HHASS MED HUM PRACTICUM 2,"Mitchell, Beverly M.",5:00PM - 5:59PM W SEW 562,3
 23087,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23087,MDHM 430,HHASS 1-SEM MED HUM PRACTICUM,"Mulligan, John C.",12:00PM - 12:59PM F TBA TBA,3
+24155,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24155,MECH 007,VISITING RESEARCH,"O'Malley, Marcia K.", TBA TBA,0
+24156,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24156,MECH 007,VISITING RESEARCH,"O'Malley, Marcia K.", TBA TBA,0
+24529,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24529,MECH 007,VISITING RESEARCH,"Hassanzadeh, Pedram", TBA TBA,0
 20052,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20052,MECH 200,CLASSICAL THERMODYNAMICS,"Schaefer, Laura A.",10:50AM - 12:05PM TR KCK 102,3
 24025,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24025,MECH 231,SOPHOMORE LAB,"Elliott, Matthew",2:30PM - 5:29PM T TBA TBA,1
 24026,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24026,MECH 231,SOPHOMORE LAB,"Elliott, Matthew",2:30PM - 5:29PM R TBA TBA,1
@@ -1965,8 +2150,321 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 23842,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23842,MECH 800,RESEARCH AND THESIS,"Wehmeyer, Geoff", TBA TBA,1 TO 12
 23843,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23843,MECH 800,RESEARCH AND THESIS,"Preston, Daniel J.", TBA TBA,1 TO 12
 24380,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24380,MECH 800,RESEARCH AND THESIS,"Lillehoj, Peter B.", TBA TBA,1 TO 12
+24170,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24170,MGMP 502,MANAGERIAL ACCOUNTING,"Sivaramakrishnan, Shiva",6:15PM - 9:30PM W MCN 212,1.5
+24171,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24171,MGMP 502,MANAGERIAL ACCOUNTING,"Sivaramakrishnan, Shiva","6:15PM - 9:30PM M MCN 214
+6:15PM - 9:30PM T MCN 214
+6:15PM - 9:30PM M MCN 214",1.5
+24172,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24172,MGMP 511,ORGANIZATIONAL CHANGE,"Sonenshein, Scott B.",8:30AM - 6:30PM F MCN 312,.75
+24173,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24173,MGMP 511,ORGANIZATIONAL CHANGE,"Sonenshein, Scott B.",8:30AM - 6:30PM S MCN 314,.75
+24174,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24174,MGMP 543,FINANCE,"Sachdeva, Kunal",6:15PM - 9:30PM W MCN 212,3
+24175,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24175,MGMP 543,FINANCE,"Sachdeva, Kunal",6:15PM - 9:30PM M MCN 214,3
+24176,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24176,MGMP 560,CORP SOCIAL RESPONSIBILITY,"Windsor, Duane",8:30AM - 6:30PM S MCN 312,.75
+24177,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24177,MGMP 560,CORP SOCIAL RESPONSIBILITY,"Windsor, Duane",8:30AM - 6:30PM F MCN 314,.75
+24178,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24178,MGMP 574,OPERATIONS MANAGEMENT,"Hemmer, Thomas",6:15PM - 9:30PM M MCN 212,1.5
+24179,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24179,MGMP 574,OPERATIONS MANAGEMENT,"Hemmer, Thomas",6:15PM - 9:30PM W MCN 214,1.5
+24180,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24180,MGMP 580,MARKETING,"Porter, Constance E.","6:15PM - 9:30PM M MCN 212
+6:15PM - 9:30PM T MCN 212
+6:15PM - 9:30PM M MCN 212",3
+24181,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24181,MGMP 580,MARKETING,"Porter, Constance E.",6:15PM - 9:30PM W MCN 214,3
+24169,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24169,MGMP 596,STRATEGIC BUSINESS COMM II,"Russell, Jeff", TBA TBA,.75
+24182,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24182,MGMP 708,LEADERSHIP ILE,"Sonenshein, Scott B.",8:30AM - 6:30PM FS MCN 312,1.5
+24183,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24183,MGMP 708,LEADERSHIP ILE,"Sonenshein, Scott B.",8:30AM - 6:30PM FS MCN 314,1.5
+24184,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24184,MGMP 709,NEGOTIATIONS ILE,"Zhou, Jing",8:30AM - 6:30PM FS MCN 312,1.5
+24185,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24185,MGMP 709,NEGOTIATIONS ILE,"Zhou, Jing",8:30AM - 6:30PM FS MCN 314,1.5
+24186,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24186,MGMP 798,STRATEGIC MGMT SIMULATION,"Windsor, Duane",7:30AM - 6:30PM FS MCN SHELL-108,1.5
+24187,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24187,MGMP 799,CAPSTONE CONSULTING PROJECT,"VanHorn, David","1:30PM - 7:00PM F MCN SHELL-108
+6:15PM - 9:30PM R MCN SHELL-108
+6:15PM - 9:30PM R MCN SHELL-108
+6:15PM - 9:30PM R MCN SHELL-108
+8:00AM - 6:00PM FS TBA TBA",3
+24214,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24214,MGMT 502,MANAGERIAL ACCOUNTING,"Ballew, Hailey B.",12:30PM - 2:00PM TR MCN 314,1.5
+24215,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24215,MGMT 502,MANAGERIAL ACCOUNTING,"Ballew, Hailey B.",2:15PM - 3:45PM TR MCN 314,1.5
+24480,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24480,MGMT 502,MANAGERIAL ACCOUNTING,"Sivaramakrishnan, Shiva",6:30PM - 8:00PM R TBA TBA,1.5
+24481,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24481,MGMT 502,MANAGERIAL ACCOUNTING,"Sivaramakrishnan, Shiva",8:30PM - 10:00PM R TBA TBA,1.5
+24216,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24216,MGMT 503,MANAGEMENT CONTROL,"Venugopalan, Raghu",4:00PM - 5:30PM TR MCN 216,1.5
+24217,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24217,MGMT 503,MANAGEMENT CONTROL,"Venugopalan, Raghu",6:15PM - 9:30PM M MCN 317,1.5
+24221,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24221,MGMT 512,LEADING CHANGE,"Miles, Jonathan E.",2:15PM - 3:45PM TR MCN 312,.75
+24222,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24222,MGMT 512,LEADING CHANGE,"Miles, Jonathan E.",12:30PM - 2:00PM TR MCN 312,.75
+24554,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24554,MGMT 514,ORGANIZATIONAL CHANGE ILE,"Sonenshein, Scott B.","8:00AM - 6:00PM R TBA TBA
+8:00AM - 12:30PM F TBA TBA",1.5
+24201,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24201,MGMT 541,ECONOMIC ENVIRONMENT OF BUSI,"Brandl, Michael W.",12:30PM - 2:00PM TR MCN 312,1.5
+24202,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24202,MGMT 541,ECONOMIC ENVIRONMENT OF BUSI,"Brandl, Michael W.",2:15PM - 3:45PM TR MCN 312,1.5
+24482,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24482,MGMT 543,FINANCE,"Weston, James",6:30PM - 8:00PM T TBA TBA,3
+24504,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24504,MGMT 543,FINANCE,"Weston, James",8:30PM - 10:00PM T TBA TBA,3
+24223,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24223,MGMT 560,CORP SOCIAL RESPONSIBILITY,"Windsor, Duane",2:15PM - 3:45PM TR MCN 312,.75
+24224,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24224,MGMT 560,CORP SOCIAL RESPONSIBILITY,"Windsor, Duane",12:30PM - 2:00PM TR MCN 312,.75
+24225,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24225,MGMT 561,BUSINESS-GOVERNMENT RELATIONS,"Schuler, Doug",4:00PM - 5:30PM TR MCN 314,1.5
+24545,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24545,MGMT 561,BUSINESS-GOVERNMENT RELATIONS,"Schuler, Doug",8:30PM - 10:00PM R TBA TBA,1.5
+24218,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24218,MGMT 571,STRATEGY FORMULATION,"Koka, Balaji R.",12:30PM - 2:00PM MW MCN 312,1.5
+24219,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24219,MGMT 571,STRATEGY FORMULATION,"Koka, Balaji R.",2:15PM - 3:45PM MW MCN 312,1.5
+24546,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24546,MGMT 571,STRATEGY FORMULATION,"Kale, Prashant",8:30PM - 10:00PM R TBA TBA,1.5
+24249,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24249,MGMT 574,OPERATIONS MANAGEMENT,"Pazgal, Amit I.",2:15PM - 3:45PM MW MCN 314,1.5
+24220,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24220,MGMT 574,OPERATIONS MANAGEMENT,"Pazgal, Amit I.",12:30PM - 2:00PM MW MCN 314,1.5
+24166,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24166,MGMT 591,ACCOUNTING THEORY,"Zeff, Stephen A.","12:30PM - 2:00PM TR MCN 216
+12:30PM - 2:00PM TR MCN 216",3
+24164,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24164,MGMT 596,STRATEGIC BUSINESS COMM II,"Moore, Janet H.", TBA TBA,.75
+24188,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24188,MGMT 599,ACTION LEARNING PROJECT,"VanHorn, David","8:00AM - 11:15AM MW MCN 214
+8:00AM - 11:15AM MW MCN 214",3
+24212,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24212,MGMT 604,MINDFULNESS & PERF AT WORK,"Dane, Erik I.",8:00AM - 11:15AM T MCN 314,1.5
+24167,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24167,MGMT 604,MINDFULNESS & PERF AT WORK,"Dane, Erik I.",6:15PM - 9:30PM W MCN 312,1.5
+24262,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24262,MGMT 604,MINDFULNESS & PERF AT WORK,"Dane, Erik I.","7:30AM - 12:30PM S MCN 317
+1:30PM - 6:30PM S MCN 317
+7:30AM - 12:30PM S MCN 317
+1:30PM - 6:30PM S MCN 317",1.5
+24483,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24483,MGMT 611,GEOPOLITICS OF ENERGY,"Arnold, William M.",6:30PM - 8:00PM T TBA TBA,1.5
+24211,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24211,MGMT 617,INFO ECONOMY: THEORY & APPL,"Hemmer, Thomas",12:30PM - 2:00PM MW MCN 214,1.5
+24250,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24250,MGMT 617,INFO ECONOMY: THEORY & APPL,"Hemmer, Thomas",6:15PM - 9:30PM W MCN 216,1.5
+24190,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24190,MGMT 621,THE NEW ENTERPRISE,"Panahi, Hesam M.; Hochberg, Yael V.","9:45AM - 11:15AM TR MCN 312
+9:45AM - 11:15AM TR MCN 312",3
+24264,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24264,MGMT 626,VENTURE CAPITAL,"Murphree, Dennis E.","7:30AM - 12:30PM S MCN 212
+1:30PM - 6:30PM S MCN 212
+7:30AM - 12:30PM S MCN 212
+1:30PM - 6:30PM S MCN 212",1.5
+24251,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24251,MGMT 630,FINANCIAL MARKETS,"Sachdeva, Kunal",2:15PM - 3:45PM MW MCN 314,1.5
+24252,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24252,MGMT 632,CONSUMER FINANCE,"Johnson, Stephanie G.",2:15PM - 3:45PM TR MCN 316,1.5
+24253,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24253,MGMT 632,CONSUMER FINANCE,"Johnson, Stephanie G.",6:15PM - 9:30PM T MCN 312,1.5
+24243,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24243,MGMT 633,LIFE SCIENCE ENTREPRENEURSHIP,"Gill, Jack M.; Cherukuri, Paul; Clifton, Will",4:00PM - 6:00PM MW BRC 103,1.5
+24210,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24210,MGMT 638,QUANTITATIVE INVESTMENT STRAT,"Back, Kerry E.",12:30PM - 2:00PM TR MCN 316,1.5
+24191,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24191,MGMT 641,ENTREPRENEURIAL STRATEGY,"Hochberg, Yael V.",6:15PM - 9:30PM T MCN 314,1.5
+24192,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24192,MGMT 643,EQUITY PRACTICUM I WRIGHT FUND,"Foote, Jill","6:15PM - 9:30PM T MCN 318
+6:15PM - 9:30PM T MCN 318",2
+24193,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24193,MGMT 644,EQUITY PRACTICUM II WRIGHT FND,"Foote, Jill","6:15PM - 9:30PM T MCN 318
+6:15PM - 9:30PM T MCN 318",2
+24484,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24484,MGMT 646,CORPORATE INVESTMENT POLICY,"Crane, Alan D.",8:30PM - 10:00PM T TBA TBA,1.5
+24194,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24194,MGMT 647,CORPORATE FINANCIAL POLICY,"Grullon, Gustavo",6:15PM - 9:30PM W MCN 312,1.5
+24265,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24265,MGMT 647,CORPORATE FINANCIAL POLICY,"Grullon, Gustavo","7:30AM - 12:30PM S MCN 216
+1:30PM - 6:30PM S TBA TBA
+7:30AM - 12:30PM S MCN 216
+1:30PM - 6:30PM S MCN 216",1.5
+24247,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24247,MGMT 648,APPLIED FINANCE,"Crotty, Kevin P.",12:30PM - 2:00PM TR MCN 314,1.5
+24203,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24203,MGMT 648,APPLIED FINANCE,"Crotty, Kevin P.",2:15PM - 3:45PM TR MCN 314,1.5
+24204,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24204,MGMT 652,MERGERS & ACQUISITIONS,"Grullon, Gustavo",2:15PM - 3:45PM TR MCN 212,1.5
+24209,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24209,MGMT 652,MERGERS & ACQUISITIONS,"Grullon, Gustavo",6:15PM - 9:30PM T MCN 312,1.5
+24266,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24266,MGMT 652,MERGERS & ACQUISITIONS,"Grullon, Gustavo","1:30PM - 6:30PM S MCN 212
+7:30AM - 12:30PM S MCN 212
+1:30PM - 6:30PM S MCN 212
+7:30AM - 12:30PM S MCN 212",1.5
+24477,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24477,MGMT 652,MERGERS & ACQUISITIONS,"Grullon, Gustavo",8:30PM - 10:00PM T TBA TBA,1.5
+24307,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24307,MGMT 653,THE BLOCKCHAIN ECONOMY,"Sanchez Rodriguez, Manolo","6:15PM - 9:30PM R MCN 212
+6:15PM - 9:30PM R MCN 212
+8:00AM - 6:00PM S MCN 212",.75
+24195,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24195,MGMT 654,RE CAP MARKETS: PUBLIC & PRIV,"Mastandrea, James C.",6:15PM - 9:30PM M MCN 216,1.5
+24196,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24196,MGMT 656,ENERGY DERIVATIVES,"Kaminski, Vincent","6:15PM - 9:30PM W MCN 316
+6:15PM - 9:30PM W MCN 316",3
+24205,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24205,MGMT 659,REAL ESTATE FINANCE,"Johnson, Stephanie G.",4:00PM - 5:30PM MW MCN 312,1.5
+24267,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24267,MGMT 659,REAL ESTATE FINANCE,"Johnson, Stephanie G.","7:30AM - 12:30PM S MCN 316
+1:30PM - 6:30PM S MCN 316
+7:30AM - 12:30PM S MCN 316
+1:30PM - 6:30PM S MCN 316",1.5
+24308,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24308,MGMT 664,OPERATIONS LEADERSHIP LAB,"Flatt, Robert N.; Pazgal, Amit I.","8:00AM - 9:30AM MW MCN 317
+8:00AM - 9:30AM W MCN 317",.75
+24206,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24206,MGMT 668,INTL TRADE & BUSINESS STRATEGY,"Schuler, Doug",4:00PM - 5:30PM TR MCN 314,1.5
+24207,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24207,MGMT 678,BUSINESS OF HEALTHCARE,"Kroger, Edward J.",4:00PM - 5:30PM TR MCN 312,1.5
+24485,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24485,MGMT 682,PRICING STRATEGIES,"Dholakia, Utpal M.",6:30PM - 8:00PM T TBA TBA,1.5
+24208,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24208,MGMT 684,BRAND STRATEGY,"Clark, Kathleen H.",4:00PM - 5:30PM MW MCN 314,1.5
+24244,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24244,MGMT 686,INTRO TO MARKETING RESEARCH,"Porter, Constance E.",2:15PM - 3:45PM MW MCN 312,1.5
+24246,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24246,MGMT 688,BUYER BEHAVIOR,"Chung, Jaeyeon",9:45AM - 11:15AM MW MCN 318,1.5
+24296,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24296,MGMT 690,HEALTHCARE STRATEGY,"Kale, Prashant",8:00AM - 6:00PM FS MCN 317,1.5
+24242,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24242,MGMT 698,BUSINESS PROCESS OPTIMIZATION,"Pazgal, Amit I.",12:30PM - 2:00PM MW MCN 314,1.5
+24245,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24245,MGMT 698,BUSINESS PROCESS OPTIMIZATION,"Pazgal, Amit I.",6:15PM - 9:30PM W MCN 216,1.5
+24300,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24300,MGMT 700,INDEPENDENT STUDY,"Duarte, Jefferson", TBA TBA,1.5 TO 3
+24462,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24462,MGMT 700,INDEPENDENT STUDY,"VanHorn, David", TBA TBA,1.5 TO 3
+24475,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24475,MGMT 700,INDEPENDENT STUDY,"Wedgwood, Ian D.", TBA TBA,1.5 TO 3
+24476,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24476,MGMT 700,INDEPENDENT STUDY,"Foote, Jill", TBA TBA,1.5 TO 3
+24547,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24547,MGMT 700,INDEPENDENT STUDY,"Danto, Allan D.", TBA TBA,1.5 TO 3
+24548,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24548,MGMT 700,INDEPENDENT STUDY,"Danto, Allan D.", TBA TBA,1.5 TO 3
+24549,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24549,MGMT 700,INDEPENDENT STUDY,"Ramesh, Kris", TBA TBA,1.5 TO 3
+24550,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24550,MGMT 700,INDEPENDENT STUDY,"Hochberg, Yael V.", TBA TBA,1.5 TO 3
+24553,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24553,MGMT 700,INDEPENDENT STUDY,"VanHorn, David", TBA TBA,1.5 TO 3
+24555,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24555,MGMT 700,INDEPENDENT STUDY,"Ostdiek, Barbara", TBA TBA,1.5 TO 3
+24543,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24543,MGMT 702,RICE BUSINESS INTNL STUDY,"Ostdiek, Barbara", TBA TBA,1.5
+24301,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24301,MGMT 705,FIELD STUDY - AMERICAN BUS III,"Ostdiek, Barbara", TBA TBA,1
+24313,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24313,MGMT 708,PRICING STRATEGIES-OIL&GAS IND,"Bairat, Rohan; Simoncic, Martin","6:15PM - 9:30PM R MCN 214
+8:00AM - 6:00PM S MCN 214
+6:15PM - 9:30PM R TBA TBA",.75
+24241,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24241,MGMT 712,PROCESS MGMT & QUALITY IMPROV,"Cimino, Todd R.",4:00PM - 5:30PM MW MCN 216,1.5
+24248,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24248,MGMT 712,PROCESS MGMT & QUALITY IMPROV,"Cimino, Todd R.",6:15PM - 9:30PM T MCN 216,1.5
+24268,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24268,MGMT 717,PROJECT MANAGEMENT,"Walker, Valerie C.","1:30PM - 6:30PM S MCN 218
+7:30AM - 12:30PM S TBA TBA
+1:30PM - 6:30PM S MCN 218
+7:30AM - 12:30PM S MCN 218",1.5
+24240,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24240,MGMT 721,BUSINESS LAW,"Butler, Lee Ann E.",12:30PM - 2:00PM MW MCN 312,1.5
+24239,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24239,MGMT 721,BUSINESS LAW,"Butler, Lee Ann E.",6:15PM - 9:30PM T MCN 317,1.5
+24269,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24269,MGMT 721,BUSINESS LAW,"Butler, Lee Ann E.","1:30PM - 6:30PM S MCN 316
+7:30AM - 12:30PM S MCN 316
+1:30PM - 6:30PM S MCN 316
+7:30AM - 12:30PM S MCN 316",1.5
+24197,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24197,MGMT 724,SOCIAL ENTREPRENEURSHIP,"Alvarez, Rafael",6:15PM - 9:30PM M MCN 316,1.5
+24165,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24165,MGMT 727,FIXED INCOME - PRACTICUM II,"Foote, Jill","4:00PM - 6:00PM M MCN 354
+4:00PM - 6:00PM M MCN 354",1.5
+24238,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24238,MGMT 731,SCANDALS & REPUTATION MGMT,"Zavyalova, Anastasiya A.",2:15PM - 3:45PM TR MCN 318,1.5
+24236,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24236,MGMT 731,SCANDALS & REPUTATION MGMT,"Zavyalova, Anastasiya A.",6:15PM - 9:30PM T MCN 314,1.5
+24270,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24270,MGMT 731,SCANDALS & REPUTATION MGMT,"Zavyalova, Anastasiya A.","7:30AM - 12:30PM S MCN 316
+1:30PM - 6:30PM S TBA TBA
+7:30AM - 12:30PM S MCN 316
+1:30PM - 6:30PM S MCN 316",1.5
+24282,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24282,MGMT 733,STRATEGIES FOR GROWTH,"Kale, Prashant","7:30AM - 12:30PM S MCN 214
+1:30PM - 6:30PM S TBA TBA
+7:30AM - 12:30PM S MCN 214
+1:30PM - 6:30PM S MCN 214",1.5
+24474,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24474,MGMT 733,STRATEGIES FOR GROWTH,"Kale, Prashant","1:30PM - 6:30PM S MCN 216
+7:30AM - 12:30PM S TBA TBA
+1:30PM - 6:30PM S MCN 216
+7:30AM - 12:30PM S MCN 216",1.5
+24304,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24304,MGMT 735,MARKETING LAB,"Porter, Constance E.", TBA TBA,1.5 TO 3
+24198,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24198,MGMT 739,CAPITAL FORMATION IN ENERGY,"Pruner, David",6:15PM - 9:30PM M MCN 312,1.5
 24200,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24200,MGMT 740,STUDENT VENTURE FUND,"Cohen, Jim; Poag, Mark","6:15PM - 9:30PM M MCN 217
 6:15PM - 9:30PM M MCN 217",3
+24237,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24237,MGMT 744,SERVICES OPERATIONS,"Bhagat, Ratan D.",4:00PM - 5:30PM TR MCN 317,1.5
+24235,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24235,MGMT 745,INTL ENERGY DEVELOPMENT,"Gaille, S. S.",2:15PM - 3:45PM MW MCN 214,1.5
+24234,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24234,MGMT 746,REAL PROPERTY,"Dubrowski, Daniel R.","4:00PM - 5:30PM TR MCN 312
+6:15PM - 9:30PM R MCN 312",1.5
+24305,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24305,MGMT 752,SUPPLY CHAIN MANAGEMENT LAB,"VanHorn, David", TBA TBA,1.5 TO 3
+24272,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24272,MGMT 753,OPERATIONS LAB: HEALTH CARE,"Wedgwood, Ian D.","1:30PM - 6:30PM S MCN 317
+7:30AM - 12:30PM S MCN 317
+1:30PM - 6:30PM S MCN 317
+7:30AM - 12:30PM S MCN 317
+7:30AM - 12:30PM S MCN 317
+1:30PM - 6:30PM S TBA TBA
+7:30AM - 12:30PM S MCN 317
+1:30PM - 6:30PM S MCN 317",3
+24233,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24233,MGMT 758,NON-MARKET STRATEGY,"Zavyalova, Anastasiya A.",8:00AM - 11:15AM R MCN 316,1.5
+24232,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24232,MGMT 758,NON-MARKET STRATEGY,"Zavyalova, Anastasiya A.",6:15PM - 9:30PM M MCN 314,1.5
+24306,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24306,MGMT 760,E-LAB: VENTURE CAPITAL,"Danto, Allan D.", TBA TBA,1.5 TO 3
+24309,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24309,MGMT 761,E-LAB: ENTERPRISE ACQUISITION,"Danto, Allan D.","6:15PM - 9:30PM R MCN 312
+6:15PM - 9:30PM R TBA TBA
+6:15PM - 9:30PM R MCN 312
+6:15PM - 9:30PM R MCN 314
+6:15PM - 9:30PM R MCN 312
+6:15PM - 9:30PM R MCN 312",1.5 TO 3
+24311,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24311,MGMT 762,E-LAB: NEW ENTERPRISE,"Danto, Allan D.","6:15PM - 9:30PM R MCN 217
+6:15PM - 9:30PM R MCN 217
+6:15PM - 9:30PM R MCN 217
+6:15PM - 9:30PM R TBA TBA
+6:15PM - 9:30PM R MCN 217
+6:15PM - 9:30PM R MCN 217",1.5 TO 3
+24310,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24310,MGMT 766,HEALTHCARE INNOV & ENTREP LAB,"Hochberg, Yael V.; Panahi, Hesam M.; Soleimani, Farzad","12:30PM - 3:45PM T MCN 217
+12:30PM - 3:45PM T MCN 217",1.5 TO 3
+24231,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24231,MGMT 767,QUANTITATIVE FINANCE LAB,"Back, Kerry E.",12:30PM - 2:00PM TR MCN 316,1.5
+24333,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24333,MGMT 768,THE NEW FOOD ECONOMY,"Schuler, Doug; O'Brien, Belinda R.",8:00AM - 6:00PM S MCN 212,2
+24199,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24199,MGMT 770,CONSULTATIVE SELLING,"Schell, Rick",6:15PM - 9:30PM T MCN 218,1.5
+24283,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24283,MGMT 771,DIGITAL MARKETING,"Ferris, Chris","1:30PM - 6:30PM S MCN 214
+7:30AM - 12:30PM S TBA TBA
+1:30PM - 6:30PM S MCN 214
+7:30AM - 12:30PM S MCN 214",1.5
+24314,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24314,MGMT 776,INTRO TO REAL ESTATE INDUSTRY,"Donaldson, Edmund A.","8:00AM - 6:00PM F MCN 314
+8:00AM - 12:00PM S MCN 314
+6:15PM - 9:30PM R TBA TBA",.75
+24229,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24229,MGMT 778,CUSTOMER EXPERIENCE MANAGEMENT,"Dholakia, Utpal M.",2:15PM - 3:45PM MW MCN 212,1.5
+24230,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24230,MGMT 778,CUSTOMER EXPERIENCE MANAGEMENT,"Dholakia, Utpal M.",6:15PM - 9:30PM W MCN 314,1.5
+24292,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24292,MGMT 778,CUSTOMER EXPERIENCE MANAGEMENT,"Dholakia, Utpal M.","1:30PM - 6:00PM S MCN 216
+8:00AM - 12:30PM S MCN 216
+1:30PM - 6:00PM S MCN 216
+8:00AM - 12:30PM S MCN 216
+10:30AM - 12:30PM F MCN 216",1.5
+24227,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24227,MGMT 781,TEAMS AND TEAMWORK,"Miles, Jonathan E.",12:30PM - 2:00PM MW MCN 214,1.5
+24486,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24486,MGMT 783,SQL FOR MANAGERS,"Frey, Jeff","6:15PM - 9:30PM R MCN 214
+8:00AM - 6:00PM F MCN 214
+6:15PM - 9:30PM R MCN 214",.75
+24297,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24297,MGMT 784,POWER & INFLUENCE IN ORGS,"Miles, Jonathan E.","8:00AM - 12:30PM S MCN 312
+1:30PM - 3:30PM S MCN 312
+10:30AM - 12:30PM S TBA TBA
+1:30PM - 6:00PM S TBA TBA
+4:00PM - 6:00PM F MCN 312
+8:00AM - 12:30PM S MCN 312",1.5
+24336,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24336,MGMT 786,GLOBAL BUSINESS OFFSITE,"Li, Haiyang", TBA TBA,.75 TO 1.5
+24337,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24337,MGMT 786,GLOBAL BUSINESS OFFSITE,"Koenig, Michael L.", TBA TBA,.75 TO 1.5
+24228,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24228,MGMT 787,FINANCIAL CRISES,"Brandl, Michael W.",9:45AM - 11:15AM TR MCN 318,1.5
+24226,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24226,MGMT 788,CORPORATE RIVALRY,"Carlin, Bruce I.",9:45AM - 11:15AM MW MCN 314,1.5
+24256,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24256,MGMT 788,CORPORATE RIVALRY,"Carlin, Bruce I.","12:30PM - 3:45PM F MCN 318
+12:30PM - 3:45PM F MCN 318
+12:30PM - 3:45PM F MCN 318
+12:30PM - 3:45PM F TBA TBA
+12:30PM - 3:45PM F MCN 318
+12:30PM - 3:45PM F MCN 318",1.5
+24302,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24302,MGMT 800,INDEPENDENT STUDY,"Ostdiek, Barbara", TBA TBA,1.5 TO 3
+24293,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24293,MGMT 802,MANAGERIAL ACCOUNTING,"Sivaramakrishnan, Shiva","1:30PM - 6:00PM F MCN 314
+1:30PM - 6:00PM S MCN 314
+8:00AM - 12:30PM F MCN 314
+1:30PM - 3:30PM F MCN 314
+8:00AM - 12:30PM S MCN 314",1.5
+24551,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24551,MGMT 802,MANAGERIAL ACCOUNTING,"Sivaramakrishnan, Shiva", TBA TBA,1.5
+24290,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24290,MGMT 843,CORPORATE FINANCIAL MANAGEMENT,"Umar, Tarik","8:00AM - 12:30PM F MCN 314
+1:30PM - 3:30PM F MCN 314
+1:30PM - 6:00PM S MCN 314
+1:30PM - 6:00PM F MCN 314
+1:30PM - 6:00PM F MCN 314
+1:30PM - 6:00PM S TBA TBA
+8:00AM - 12:30PM F MCN 314
+10:30AM - 12:30PM F MCN 314
+1:30PM - 6:00PM F MCN 314
+1:30PM - 6:00PM S MCN 314",3
+24299,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24299,MGMT 874,OPERATIONS MANAGEMENT,"Pazgal, Amit I.","4:00PM - 6:00PM F TBA TBA
+8:00AM - 12:30PM S TBA TBA
+1:30PM - 6:00PM F MCN 314
+1:30PM - 6:00PM S MCN 314
+8:00AM - 12:30PM F MCN 314",1.5
+24289,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24289,MGMT 880,STRATEGIC MARKETING,"Westbrook, Robert A.","8:00AM - 12:30PM F MCN 314
+8:00AM - 12:30PM S MCN 314
+8:00AM - 12:30PM S MCN 314
+8:00AM - 12:30PM F MCN 314
+8:00AM - 12:30PM F MCN 314
+8:00AM - 12:30PM F TBA TBA
+8:00AM - 12:30PM S MCN 314
+8:00AM - 12:30PM S MCN 314
+8:00AM - 12:30PM S MCN 314",3
+24294,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24294,MGMT 919,CORPORATE GOVERNANCE,"Ramesh, Kris","1:30PM - 6:00PM F MCN 312
+8:00AM - 12:30PM F MCN 312
+1:30PM - 6:00PM F MCN 312
+10:30AM - 12:30PM F MCN 312
+1:30PM - 6:00PM F MCN 312",1.5
+24273,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24273,MGMT 954,CORP FINANCIAL RESTRUCTURING,"Anapolsky, Jeff","7:30AM - 12:30PM S MCN 214
+1:30PM - 6:30PM S MCN 214
+7:30AM - 12:30PM S MCN 214
+1:30PM - 6:30PM S MCN 214",1.5
+24280,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24280,MGMT 955,ADV FINANCIAL RESTRUCTURING,"Anapolsky, Jeff","1:30PM - 6:30PM S MCN 316
+1:30PM - 6:30PM S MCN 316
+1:30PM - 6:30PM S MCN 316
+7:30AM - 12:30PM S MCN 316",1.5
+24274,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24274,MGMW 502,MANAGERIAL ACCOUNTING,"Ballew, Hailey B.","1:30PM - 6:30PM S TBA TBA
+7:30AM - 12:30PM S MCN 318
+4:00PM - 9:30PM F MCN 318
+1:30PM - 6:30PM S MCN 318",1.5
+24275,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24275,MGMW 511,ORGANIZATIONAL CHANGE,"Sonenshein, Scott B.",7:30AM - 6:30PM F MCN 214,.75
+24501,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24501,MGMW 511,ORGANIZATIONAL CHANGE,"Sonenshein, Scott B.", TBA TBA,.75
+24257,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24257,MGMW 543,FINANCE,"Umar, Tarik","7:30AM - 12:30PM S MCN 318
+4:00PM - 9:30PM F MCN 318
+1:30PM - 6:30PM S MCN 318
+7:30AM - 12:30PM S MCN 318
+4:00PM - 9:30PM F TBA TBA
+1:30PM - 6:30PM S MCN 318
+7:30AM - 12:30PM S MCN 318
+4:00PM - 9:30PM F MCN 318",3
+24276,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24276,MGMW 574,OPERATIONS MANAGEMENT,"Pazgal, Amit I.","4:00PM - 9:30PM F MCN 318
+1:30PM - 6:30PM S MCN 318
+7:30AM - 12:30PM S MCN 318
+4:00PM - 9:30PM F MCN 318",1.5
+24277,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24277,MGMW 580,MARKETING,"Mittal, Vikas","1:30PM - 6:30PM S MCN 318
+7:30AM - 12:30PM S MCN 318
+4:00PM - 9:30PM F MCN 318
+1:30PM - 6:30PM S MCN 318
+7:30AM - 12:30PM S TBA TBA
+4:00PM - 9:30PM F MCN 318
+1:30PM - 6:30PM S MCN 318
+7:30AM - 12:30PM S MCN 318",3
+24259,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24259,MGMW 596,STRATEGIC BUSINESS COMM II,"Russell, Jeff", TBA TBA,.75
+24278,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24278,MGMW 706,LEADERSHIP,"Smith, Brent",7:30AM - 6:30PM FS MCN 318,1.5
+24279,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24279,MGMW 799,CAPSTONE CONSULTING PROJECT,"VanHorn, David","1:30PM - 7:00PM F MCN SHELL-108
+4:00PM - 9:30PM F MCN 212
+4:00PM - 9:30PM F MCN 212
+4:00PM - 9:30PM F MCN 212
+4:00PM - 9:30PM F TBA TBA
+4:00PM - 9:30PM F MCN 212
+4:00PM - 9:30PM F MCN 212
+8:00AM - 6:00PM FS TBA TBA",3
+24312,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24312,MICO 605,MANAGING FOREIGN MARKET ENTRY,"Zhang, Anthea","6:15PM - 9:30PM R MCN 314
+8:00AM - 6:00PM S MCN 314
+6:15PM - 9:30PM R MCN 314",.75
 24358,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24358,MILI 122,INTRODUCTION TO LEADERSHIP II,,9:00AM - 10:59AM T TBA TBA,2
 24359,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24359,MILI 122,INTRODUCTION TO LEADERSHIP II,,10:00AM - 11:59AM W TBA TBA,2
 24360,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24360,MILI 122,INTRODUCTION TO LEADERSHIP II,,1:00PM - 2:59PM W TBA TBA,2
@@ -2645,14 +3143,18 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20173,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20173,NAVA 301,NAVIGATION I,"Muffoletto, Edward",8:00AM - 9:15AM MW TBA TBA,3
 20651,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20651,NAVA 304,NAVAL WEAPONS,"Muffoletto, Edward",9:25AM - 10:40AM MW TBA TBA,3
 22059,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22059,NAVA 402,LEADERSHIP AND ETHICS,"Symons, Tim",8:00AM - 9:15AM TR TBA TBA,3
+20712,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20712,NEUR 306,CONCEPT LEARNING&MEMORY,"Dickman, J D.",9:00AM - 9:50AM MWF TBA TBA,3
 22008,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22008,NEUR 310,IND RES FOR NEUR UNDERGRADS,"Flynn, Jonathan R.; McNew, James A.", TBA TBA,1 TO 4
 23227,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23227,NEUR 310,IND RES FOR NEUR UNDERGRADS,"Uribe, Rosa A.", TBA TBA,1 TO 4
+20713,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20713,NEUR 323,GENETICS FOR NEUROSCIENCE,"Dickman, J D.",9:00AM - 9:50AM MWF TBA TBA,3
 22004,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22004,NEUR 362,COGNITIVE NEUROSCIENCE,"Fischer-Baum, Simon J.",10:00AM - 10:50AM MWF SEW 301,3
 21269,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21269,NEUR 380,NEUROSYSTEMS,"Dickman, J D.",9:00AM - 9:50AM MWF SEW 301,3
 22011,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22011,NEUR 382,INTRO COMPUTATIONAL NEURSCI,"Gabbiani, Fabrizio A.",2:00PM - 2:50PM MWF AEL A121,3
 22016,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22016,NEUR 402,UNDERGRADUATE HONORS RESEARCH,"Flynn, Jonathan R.", TBA TBA,5
 22017,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22017,NEUR 412,UNDERGRADUATE RESEARCH SEMINAR,"Flynn, Jonathan R.", TBA TBA,1
 21276,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21276,NEUR 416,NEURAL COMPUTATION,"Pitkow, Xaq",2:30PM - 3:45PM TR MEL 251,3
+20649,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20649,NEUR 506,CONCEPT LEARNING&MEMORY,"Dickman, J D.",9:00AM - 9:50AM MWF TBA TBA,3
+20457,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20457,NEUR 523,GENETICS FOR NEUROSCIENCE,"Dickman, J D.",9:00AM - 9:50AM MWF TBA TBA,3
 22469,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22469,NEUR 582,INTRO COMPUTATIONAL NEURSCI,"Gabbiani, Fabrizio A.",2:00PM - 2:50PM MWF AEL A121,3
 20881,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20881,NSCI 120,INTR SCIENTIFIC RES CHALLENGES,"McNeil, Carrie",10:50AM - 12:05PM TR ABL 129,3
 21063,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21063,NSCI 120,INTR SCIENTIFIC RES CHALLENGES,"McNeil, Carrie",9:25AM - 10:40AM TR ABL 129,3
@@ -2732,6 +3234,9 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 21832,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21832,PHIL 800,RESEARCH AND THESIS,"Morgan, Alexander D.", TBA TBA,1 TO 15
 23635,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23635,PHIL 800,RESEARCH AND THESIS,"Yao, Vida Y.", TBA TBA,1 TO 15
 22442,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22442,PHIL 800,RESEARCH AND THESIS,"Siewert, Charles", TBA TBA,1 TO 15
+24152,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24152,PHYS 007,VISITING RESEARCH,"Dai, Pengcheng", TBA TBA,0
+24346,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24346,PHYS 007,VISITING RESEARCH,"Redjimi, Radia", TBA TBA,0
+24347,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24347,PHYS 007,VISITING RESEARCH,"Redjimi, Radia", TBA TBA,0
 23641,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23641,PHYS 100,QUANTUM PHYSICS FOR REG PEOPLE,"Stenson, Jared R.",2:00PM - 2:50PM W GRW 160A,1
 24287,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24287,PHYS 100,DOING PHYSICS WITH A COMPUTER,"Beaird, Robert P.",3:00PM - 3:50PM R HRZ 211,1
 20011,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20011,PHYS 102,ELECTRICITY&MAGNETISM W/LAB,"Dunning, Barry; Yu, Lam H.; Cone, Michael T.; Beaird, Robert P.",9:00AM - 9:50AM MW HRZ AMP,4
@@ -2820,6 +3325,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 23647,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23647,PHYS 800,GRADUATE RESEARCH,"Yi, Ming", TBA TBA,1 TO 15
 24421,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24421,PHYS 800,GRADUATE RESEARCH,"Pagano, Guido", TBA TBA,1 TO 15
 24429,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24429,PHYS 800,GRADUATE RESEARCH,"Kolomeisky, Anatoly B.", TBA TBA,1 TO 15
+24454,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=24454,PJHC 238,PRE-SEMINAR SUMMER INTERNSHIP,"Mankad, Raj V.", TBA TBA,1
 22530,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=22530,PJHC 394,HUMAN DEVELOPMENT,"Lopez Alonso, Moramay",10:50AM - 12:05PM TR HUM 327,3
 23663,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23663,PJHC 470,ADVANCED SEMINAR PJHC,"Ward, Kerry R.",1:00PM - 3:50PM R HUM 120,3
 23437,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23437,PLST 316,DEMOCRACY & POLITICAL THEORY,"Yunis, Harvey",2:30PM - 3:45PM TR RZR 204,3
@@ -3534,6 +4040,11 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 21072,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21072,UNIV 013,MAN IMPACT ON ENVIRON AT UTSPH,"Ostherr, Kirsten A.", TBA TBA,3
 21073,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21073,UNIV 014,OVERVIEW ENVIRON HLTH AT UTSPH,"Ostherr, Kirsten A.", TBA TBA,3
 21074,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21074,UNIV 015,INTRO MGT/POL STUDIES AT UTSPH,"Ostherr, Kirsten A.", TBA TBA,3
+21715,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21715,UNIV 050,INTER-INSTITUTIONAL AT UH,, TBA TBA,0 TO 12
+21714,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21714,UNIV 051,INTER-INSTITUTIONAL AT BCM,, TBA TBA,0 TO 12
+21713,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21713,UNIV 052,INTER-INSTITUTIONAL AT UTHSC,, TBA TBA,0 TO 12
+21712,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21712,UNIV 053,INTER-INSTITUTIONAL AT TAMHSC,, TBA TBA,0 TO 12
+21711,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=21711,UNIV 054,INTER-INSTITUTIONAL AT UTMBG,, TBA TBA,0 TO 12
 20565,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20565,UNIV 110,FIRST YEAR FOUNDATIONS,"Bowers, Jessica K.",10:50AM - 12:05PM TR GRW 220,2
 23985,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23985,UNIV 110,FIRST YEAR FOUNDATIONS,"Lopez, Araceli",9:25AM - 10:40AM TR HRG 125,2
 20210,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=20210,UNIV 201,CENTURY SCHOLARS PROGRAM,"Quenemoen, Caroline K.", TBA TBA,1

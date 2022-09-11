@@ -171,6 +171,12 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20114,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20114,ASTR 452,ASTROPHYS II:GALAXY&COSMOLOGY,"Fossati, Giovanni",10:30AM - 11:45AM MW HBH 21,3
 20116,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20116,ASTR 500,GRADUATE RESEARCH SEMINAR,"Dufour, Reginald J.",12:00PM - 12:50PM W HBH 227,1
 26544,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26544,ASTR 600,ASTROPHYSICAL PLASMAS,"Bradshaw, Stephen",10:50AM - 12:05PM TR HBH 21,3
+24989,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24989,BIOC 111,FUNDAMENTALS OF EXP BIOLOGY,"Beason-Abmayr, Beth; Caprette, David",2:00PM - 4:59PM F ABL B3,1
+24990,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24990,BIOC 111,FUNDAMENTALS OF EXP BIOLOGY,"Beason-Abmayr, Beth; Caprette, David",2:00PM - 4:59PM M ABL B3,1
+24991,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24991,BIOC 111,FUNDAMENTALS OF EXP BIOLOGY,"Beason-Abmayr, Beth; Caprette, David",2:00PM - 4:59PM W ABL B3,1
+24992,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24992,BIOC 111,FUNDAMENTALS OF EXP BIOLOGY,"Beason-Abmayr, Beth; Caprette, David",2:00PM - 4:59PM F ABL B3,1
+24993,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24993,BIOC 115,FRESHMAN BIOLOGY SEMINAR (BCB),"Fleming, Wendell A.",1:00PM - 2:15PM T GRB W100D,1
+24995,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24995,BIOC 115,FRESHMAN BIOLOGY SEMINAR (BCB),"Delk, Nikki A.",4:00PM - 5:15PM T BRC 284,1
 25001,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25001,BIOC 122,FUND CONCEPTS IN BIOLOGY,"Caprette, David",9:25AM - 10:40AM TR GRW 160A,3
 26511,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26511,BIOC 205,MICROBE HUNTERS REVISITED,"Greenberg, Stephen B.",7:00PM - 9:00PM T RZR 205,2
 26510,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26510,BIOC 211,EXPERIMENTAL BIOSCIENCES,"Eich, Elizabeth A.; McDowelle, Dana M.","1:00PM - 4:59PM T ABL 141
@@ -214,6 +220,14 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 2:00PM - 2:59PM M DCC 113",2
 25027,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25027,BIOC 311,ADV EXPERIMENTAL BIOSCIENCES,"Beason-Abmayr, Beth","1:00PM - 5:59PM W ABL B3
 2:00PM - 2:59PM M DCC 113",2
+25638,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25638,BIOC 318,LAB MODULE IN MICROBIOLOGY,"Caprette, David",1:00PM - 4:59PM MW ABL 141,1
+25639,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25639,BIOC 318,LAB MODULE IN MICROBIOLOGY,"Caprette, David",1:00PM - 4:59PM TR ABL 141,1
+25029,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25029,BIOC 320,LABORATORY IN TISSUE CULTURE,"Wettergreen, Matthew A.","1:00PM - 5:59PM MW KCK 108
+2:00PM - 2:50PM F KCK 101",1
+25030,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25030,BIOC 320,LABORATORY IN TISSUE CULTURE,"Saterbak, Ann","1:00PM - 5:59PM TR KCK 108
+2:00PM - 2:50PM F KCK 101",1
+25031,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25031,BIOC 320,LABORATORY IN TISSUE CULTURE,"Wettergreen, Matthew A.","1:00PM - 5:59PM MW KCK 108
+2:00PM - 2:50PM F KCK 101",1
 25053,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25053,BIOC 324,MICROBIOLOGY & BIOTECHNOLOGY,"Bennett, George N.",9:25AM - 10:40AM TR KCK 101,3
 25037,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25037,BIOC 332,FUND OF SYSTEMS PHYSIOLOGY,"Jacot, Jeff",11:00AM - 11:50AM MWF SEW 309,3
 25038,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25038,BIOC 334,EVOLUTION,"Lohaus, Rolf",9:00AM - 9:50AM MWF DBH 180,3
@@ -225,9 +239,12 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 25048,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25048,BIOC 402,UNDERGRADUATE HONORS RESEARCH,"Zhong, Weiwei", TBA TBA,5
 25173,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25173,BIOC 412,UNDERGRADUATE RESEARCH SEMINAR,"Zhong, Weiwei", TBA TBA,1
 26904,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26904,BIOC 413,EXPERIMENTAL MOLECULAR BIO,"Beason-Abmayr, Beth; Eich, Elizabeth A.",1:00PM - 5:59PM TR ABL B3,1
+25052,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25052,BIOC 415,EXPERIMENTAL PHYSIOLOGY,"Caprette, David",1:00PM - 4:59PM MW ABL 329,1
 27357,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27357,BIOC 424,MICROBIOLOGY & BIOTECHNOLOGY,"Bennett, George N.",9:25AM - 10:40AM TR KCK 101,3
 25174,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25174,BIOC 443,DEVELOPMENT,"Lwigale, Peter Y.",1:00PM - 2:15PM TR GRB W211,3
 25176,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25176,BIOC 460,CANCER BIOLOGY,"Farach-Carson, Cindy",8:00AM - 9:15AM TR BRC 286,3
+25055,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25055,BIOC 530,LAB MOD NMR SPECTROSCOPY&MOLEC,"Nikonowicz, Edward P.",1:00PM - 3:59PM TR KCK 308,2
+27256,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27256,BIOC 535,PRACT X-RAY CRYSTALLOGRAPHY,"Tao, Yizhi J.",1:00PM - 3:59PM TR KCK 308,2
 26688,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26688,BIOC 543,SECONDARY METABOLISM,"Parry, Ronald J.",9:25AM - 10:40AM TR GRB E300C,3
 25175,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25175,BIOC 544,DEVELOPMENT,"Lwigale, Peter Y.",1:00PM - 2:15PM TR GRB W211,3
 25177,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25177,BIOC 560,CANCER BIOLOGY,"Farach-Carson, Cindy",8:00AM - 9:15AM TR BRC 286,3
@@ -247,12 +264,22 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20953,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20953,BIOE 322,FUND OF SYSTEMS PHYSIOLOGY,"Jacot, Jeff",11:00AM - 11:50AM MWF SEW 309,3
 20954,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20954,BIOE 330,BIOREACTION ENGINEERING,"San, Ka-Yiu",10:50AM - 12:05PM TR BRC 286,3
 20955,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20955,BIOE 332,BIOENGINEERING THERMODYNAMICS,"Tabor, Jeffrey",10:00AM - 10:50AM MWF BRC 282,3
+26269,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26269,BIOE 342,LABORATORY IN TISSUE CULTURE,"Wettergreen, Matthew A.","1:00PM - 5:59PM MW KCK 108
+2:00PM - 2:50PM F KCK 101",1
+26272,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26272,BIOE 342,LABORATORY IN TISSUE CULTURE,"Saterbak, Ann","1:00PM - 5:59PM TR KCK 108
+2:00PM - 2:50PM F KCK 101",1
+26275,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26275,BIOE 342,LABORATORY IN TISSUE CULTURE,"Wettergreen, Matthew A.","1:00PM - 5:59PM MW KCK 108
+2:00PM - 2:50PM F KCK 101",1
 26328,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26328,BIOE 360,APPRO DESIGN FOR GLOBAL HEALTH,"Richards-Kortum, Rebecca R.",10:50AM - 12:05PM TR BRC 285,3
 25649,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25649,BIOE 361,METAB ENG GLOBAL HEALTH ENVMNT,"Bennett, George N.",4:00PM - 5:15PM TR BRC 285,3
 20960,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20960,BIOE 372,BIOMECHANICS,"Grande-Allen, K. Jane",9:25AM - 10:40AM TR BRC 282,3
 22596,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=22596,BIOE 391,NUMERICAL METHODS,"Igoshin, Oleg",8:00AM - 9:15AM TR DBH 180,3
 20961,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20961,BIOE 400,ENGINEERING UG RESEARCH,"San, Ka-Yiu", TBA TBA,1 TO 4
 24307,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24307,BIOE 401,UNDERGRADUATE RESEARCH,"San, Ka-Yiu", TBA TBA,1 TO 4
+20982,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20982,BIOE 440,STATISTICS FOR BIOENGINEERING,"Vannucci, Marina",9:00AM - 9:50AM MWF HRG 100,1
+20963,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20963,BIOE 444,MECHANICAL TESTING LAB MODULE,"Ramos, Renata F.",1:00PM - 5:59PM M TBA TBA,1
+25159,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25159,BIOE 444,MECHANICAL TESTING LAB MODULE,"Ramos, Renata F.",1:00PM - 5:59PM R TBA TBA,1
+26339,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26339,BIOE 446,COMPUTATIONAL MODELING LAB,"Qutub, Amina A.",1:00PM - 4:59PM W BRC 286,1
 26179,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26179,BIOE 452,BIOENGINEERING DESIGN II,"Oden, Z. Maria",8:30AM - 9:50AM MWF BRK 101,3
 26473,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26473,BIOE 484,BIOPHOTONICS INSTRUMENTATION,"Tkaczyk, Tomasz",1:00PM - 2:15PM TR BRC 285,3
 26760,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26760,BIOE 486,FUND MEDICAL IMAGING II,"Mawlawi, Osama",4:00PM - 7:00PM R BRC 284,3
@@ -264,6 +291,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 26327,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26327,BIOE 592,SENSORY NEUROENGINEERING,"Raphael, Rob",1:00PM - 2:15PM TR BRC 284,3
 26474,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26474,BIOE 598,BIOMEMS & MEDICAL MICRODEVICES,"McDevitt, John T.",9:25AM - 10:40AM TR BRC 286,3
 23307,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=23307,BIOE 610,METHODS OF MOLECULAR SIMUL,"Deem, Michael W.",2:30PM - 3:50PM MW BRC 285,3
+27074,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27074,BIOE 633,LIFE SCIENCE ENTREPRENEURSHIP,"Gill, Jack M.; Ulrich, Robert",4:00PM - 5:59PM TR BRC 103,1.5
 26477,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26477,BIOE 654,ADV COMPUTATIONAL MECHANICS,"Tezduyar, Tayfun E.",9:25AM - 10:40AM TR MEL 254,3
 26180,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26180,BIOE 661,ONCOLOGY FOR BIOENGINEERS,"Woods, Kendra",5:30PM - 8:29PM T BRC 284,3
 24751,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24751,BIOE 682,SYS BIO OF HUMAN DISEASES,"Nagrath, Deepak",1:00PM - 2:15PM TR KCK 105,3
@@ -393,6 +421,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 24247,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24247,CHBE 682,SYS BIO OF HUMAN DISEASES,"Nagrath, Deepak",1:00PM - 2:15PM TR KCK 105,3
 26787,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26787,CHBE 692,NUMERIC METH DIFF EQUATIONS,"Robert, Marc A.",8:00AM - 9:15AM TR AEL B209,3
 21806,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=21806,CHBE 800,GRADUATE RESEARCH,"Zygourakis, Kyriacos", TBA TBA,1 TO 15
+26340,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26340,CHEM 110,FRESHMAN CHEMISTRY SEMINAR,"Matsuda, Seiichi P.",2:00PM - 3:29PM W TBA TBA,1
 20459,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20459,CHEM 122,GENERAL CHEMISTRY II,"Weisman, Bruce",10:00AM - 10:50AM MWF KCK 100,3
 20460,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20460,CHEM 122,GENERAL CHEMISTRY II,"Weisman, Bruce",1:00PM - 1:50PM MWF KCK 100,3
 20461,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20461,CHEM 124,GENERAL CHEMISTRY LAB II,"Kincaid, Kristi",2:00PM - 5:29PM M DBH 200,1
@@ -417,7 +446,9 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 25203,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25203,CHEM 352,INTRO MODULE ORGANIC CHEMISTRY,"Matsuda, Seiichi P.; McNeil, Carrie",1:00PM - 4:59PM F DBH 280,1
 20480,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20480,CHEM 353,INTRO MOD ANALYTICAL  METHODS,"Gilbertson, Michelle L.",2:00PM - 5:59PM T DBH 214,1
 20481,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20481,CHEM 360,INORGANIC CHEMISTRY,"Marti-Arbona, Angel A.",9:25AM - 10:40AM TR DBH 180,3
+20482,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20482,CHEM 372,ADV MOD SYN&CHAR OF FULLERENES,"Billups, Ed",1:00PM - 4:59PM MW DBH 214,1
 24283,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24283,CHEM 383,ADV MOD QUANTUM CHEMISTRY,"Scuseria, Gustavo E.",10:50AM - 12:05PM TR ABL 305,1
+25199,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25199,CHEM 395,ADV MOD IN GREEN CHEMISTRY,"Wilson, Lon J.",1:00PM - 4:59PM MW TBA TBA,1
 23239,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=23239,CHEM 399,ADV MOD: EXPERIMENTAL DESIGN,"Colson, Adam C.", TBA TBA,1
 26693,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26693,CHEM 411,SPECTRAL METH. IN ORGANIC CHEM,"Engel, Paul S.",9:00AM - 9:50AM MWF BRK 103,3
 24284,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24284,CHEM 420,CLASSICAL & STAT THERMODYNAMIC,"Clementi, Cecilia",9:25AM - 10:40AM TR ABL 305,3
@@ -501,6 +532,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 26967,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26967,COLL 169,"BIRDIES, BALLS & BEN HOGAN","Johns, Erica G.",7:00PM - 8:00PM M HRG 125,1
 26968,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26968,COLL 170,THEMES IN SCIENCE FICTION,"Fudge, Elizabeth H.; Berg, Rosalie S.",7:00PM - 8:00PM R HRG 125,1
 26969,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26969,COLL 171,INTIMATE RELATIONSHIPS,"Parker, Nathan A.",7:00PM - 8:00PM W HRG 125,1
+27505,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27505,COLL 199,APPLIED PEER LEADERSHIP,"McConachie, Katherine A.; Crear, Shelah F.", TBA TBA,1
 27197,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27197,COLL 200,TEACHING PRACTICUM - BAKER,"van der Werff, Ivo-Jan", TBA TBA,1
 27198,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27198,COLL 200,TEACHING PRACTICUM - BROWN,"Cox, Steven J.", TBA TBA,1
 27199,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27199,COLL 200,TEACHING PRACTICUM - DUNCAN,"Duno-Gottberg, Luis", TBA TBA,1
@@ -586,10 +618,17 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 20840,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20840,COMP 800,GRADUATE RESEARCH,, TBA TBA,1 TO 15
 26197,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26197,CSCI 390,SUPERV RESRCH COGNITIVE SCI,"Kemmer, Suzanne E.", TBA TBA,1 TO 3
 26226,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26226,CSCI 481,HONORS PROJECT,"Kemmer, Suzanne E.", TBA TBA,1 TO 3
+24998,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24998,EBIO 116,FRESHMAN BIOLOGY SEMINAR (EEB),"Rasmussen, Nicholas L.",1:00PM - 2:29PM T ABL 211B,1
 26387,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26387,EBIO 116,FRESHMAN BIOLOGY SEMINAR (EEB),"Maitner, Brian S.",2:30PM - 3:59PM T ABL 211B,1
 25891,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25891,EBIO 179,AQUATIC ECOLOGY WITH SCUBA,"Flannery, Matt",6:30PM - 8:00PM MW ABL 131,3
 25002,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25002,EBIO 202,INTRODUCTORY BIOLOGY II,"Solomon, Scott E.",9:00AM - 9:50AM MWF KCK 100,3
 25003,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25003,EBIO 204,COMMUNITY GARDEN,"Rudgers, Jennifer A.",4:00PM - 4:59PM R ABL 211B,1
+25008,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25008,EBIO 213,INTRO LAB MOD ECOL & EVOL BIO,"Solomon, Scott E.","1:00PM - 4:59PM T ABL 125
+3:00PM - 3:59PM M ABL 131",2
+25009,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25009,EBIO 213,INTRO LAB MOD ECOL & EVOL BIO,"Solomon, Scott E.","1:00PM - 4:59PM W ABL 125
+3:00PM - 3:59PM M ABL 131",2
+25010,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25010,EBIO 213,INTRO LAB MOD ECOL & EVOL BIO,"Solomon, Scott E.","1:00PM - 4:59PM R ABL 125
+3:00PM - 3:59PM M ABL 131",2
 26297,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26297,EBIO 306,EEB UNDERGRADUATES IND STUDY,"Dunham, Amy E.", TBA TBA,1 TO 4
 26299,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26299,EBIO 306,EEB UNDERGRADUATES IND STUDY,"Kohn, Michael", TBA TBA,1 TO 4
 26300,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26300,EBIO 306,EEB UNDERGRADUATES IND STUDY,"Putnam, Nik", TBA TBA,1 TO 4
@@ -600,6 +639,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 26306,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26306,EBIO 306,EEB UNDERGRADUATES IND STUDY,"Miller, Thomas E.", TBA TBA,1 TO 4
 26307,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26307,EBIO 306,EEB UNDERGRADUATES IND STUDY,"Solomon, Scott E.", TBA TBA,1 TO 4
 26394,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26394,EBIO 316,LAB MODULE IN ECOLOGY,"Siemann, Evan H.",1:00PM - 4:59PM F ABL 125,1
+26389,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26389,EBIO 317,LAB MODULE IN BEHAVIOR,"Savage, Amy M.",2:00PM - 2:59PM W MEL 254,1
 25032,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25032,EBIO 321,ANIMAL BEHAVIOR,"Savage, Amy M.",2:30PM - 3:45PM TR ABL 123,3
 27310,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27310,EBIO 321,ANIMAL BEHAVIOR,"Savage, Amy M.",12:30PM - 1:45PM TR ABL 123,3
 25144,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25144,EBIO 325,ECOLOGY,"Rudgers, Jennifer A.",8:00AM - 9:15AM TR ABL 123,3
@@ -897,6 +937,9 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 23460,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=23460,FREN 800,THESIS RESEARCH (PHD),"Harter, Deborah A.", TBA TBA,1 TO 15
 26808,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26808,FSEM 100,ROMANCING RELIGION,"Fanger, Claire L.",2:00PM - 4:59PM W MLC 101,3
 27227,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27227,FSEM 113,THE PARTHENON,"Hopkins, John",2:30PM - 3:45PM TR DCC 113,3
+24291,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24291,FSEM 115,FRESHMAN BIOLOGY SEMINAR (BCB),"Fleming, Wendell A.",1:00PM - 2:15PM T GRB W100D,1
+23763,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=23763,FSEM 115,FRESHMAN BIOLOGY SEMINAR (BCB),"Delk, Nikki A.",4:00PM - 5:15PM T BRC 284,1
+24783,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24783,FSEM 116,FRESHMAN BIOLOGY SEMINAR (EEB),"Rasmussen, Nicholas L.",1:00PM - 2:29PM T ABL 211B,1
 26388,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26388,FSEM 116,FRESHMAN BIOLOGY SEMINAR (EEB),"Maitner, Brian S.",2:30PM - 3:59PM T TBA TBA,1
 25372,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25372,FSEM 121,FROM KAFKA TO HOLOCAUST,"Weissenberger, Klaus H.",1:00PM - 2:15PM TR RZR 310,3
 25374,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25374,FSEM 122,HIST THROUGH GERMAN CINEMA,"Ivanova, Mariana Z.",9:25AM - 10:40AM TR RZR 305,3
@@ -1354,10 +1397,173 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 26824,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26824,MECH 667,NONLINEAR DYNAMICS,"Dick, Andrew J.",4:00PM - 5:15PM TR MEB 241,3
 20615,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20615,MECH 800,RESEARCH AND THESIS,, TBA TBA,1 TO 12
 27329,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27329,MECH 800,RESEARCH AND THESIS,, TBA TBA,1 TO 12
+27015,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27015,MGMP 502,MANAGERIAL ACCOUNTING,"Widener, Sally K.",6:15PM - 9:30PM M MCN 212,1.5
+27016,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27016,MGMP 502,MANAGERIAL ACCOUNTING,"Widener, Sally K.",6:15PM - 9:30PM W MCN 214,1.5
+27163,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27163,MGMP 511,ORGANIZATIONAL CHANGE,"Sonenshein, Scott B.", TBA TBA,.75
+27164,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27164,MGMP 511,ORGANIZATIONAL CHANGE,"Sonenshein, Scott B.", TBA TBA,.75
+27017,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27017,MGMP 543,FINANCE,"Michenaud, Sebastien J.",6:15PM - 9:30PM M MCN 212,3
+27018,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27018,MGMP 543,FINANCE,"Michenaud, Sebastien J.",6:15PM - 9:30PM W MCN 214,3
+27019,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27019,MGMP 571,STRATEGIC FORMULA & IMPLEMENT,"Kale, Prashant",6:15PM - 9:30PM M MCN 212,1.5
+27020,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27020,MGMP 571,STRATEGIC FORMULA & IMPLEMENT,"Kale, Prashant",6:15PM - 9:30PM W MCN 214,1.5
+27021,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27021,MGMP 574,OPERATIONS MANAGEMENT,"Hemmer, Thomas",6:15PM - 9:30PM W MCN 212,1.5
+27034,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27034,MGMP 574,OPERATIONS MANAGEMENT,"Hemmer, Thomas",6:15PM - 9:30PM M MCN 214,1.5
+27035,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27035,MGMP 580,MARKETING,"Porter, Constance E.",6:15PM - 9:30PM W MCN 212,3
+27036,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27036,MGMP 580,MARKETING,"Porter, Constance E.",6:15PM - 9:30PM M MCN 214,3
+27060,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27060,MGMP 597,ILE,"Cohen, Dinah", TBA TBA,1.5
+27038,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27038,MGMP 603,FEDERAL TAXATION,"Viebig, Dick",6:15PM - 9:30PM T MCN 217,1.5
+27162,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27162,MGMP 645,INVESTMENTS / PORTFOLIO MGMT,"Kapadia, Nishad Y.",6:45PM - 9:30PM W MCN 312,1.5
+27039,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27039,MGMP 651,FIXED INCOME MANAGEMENT,"Xing, Yuhang",6:15PM - 9:30PM M MCN 217,1.5
+27240,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27240,MGMP 684,BRAND MANAGEMENT,"Kimmey, Kim E.",6:15PM - 9:30PM T MCN 218,1.5
+27165,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27165,MGMP 707,COMMUNICATIONS ILE,"Jurkowska-Krupa, Beata", TBA TBA,.75
+27166,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27166,MGMP 707,COMMUNICATIONS ILE,"Jurkowska-Krupa, Beata", TBA TBA,.75
+27191,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27191,MGMP 708,LEADERSHIP ILE,"Sonenshein, Scott B.", TBA TBA,1.5
+27222,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27222,MGMP 708,LEADERSHIP ILE,"Sonenshein, Scott B.", TBA TBA,1.5
+27040,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27040,MGMP 709,NEGOTIATIONS ILE,"Zhou, Jing", TBA TBA,1.5
+27041,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27041,MGMP 709,NEGOTIATIONS ILE,"Zhou, Jing", TBA TBA,1.5
+27042,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27042,MGMP 798,FIRST YEAR CAPSTONE,"Windsor, Duane", TBA TBA,3
+27043,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27043,MGMP 798,FIRST YEAR CAPSTONE,"Windsor, Duane", TBA TBA,3
+27176,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27176,MGMP 799,MBA-P PROGRAM CAPSTONE,"VanHorn, David", TBA TBA,3
+27046,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27046,MGMT 502,MANAGEMENT ACCOUNTING,"Uecker, Wil",2:15PM - 3:45PM MW MCN 312,1.5
+27047,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27047,MGMT 502,MANAGEMENT ACCOUNTING,"Uecker, Wil",12:30PM - 2:00PM MW MCN 312,1.5
+27048,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27048,MGMT 503,MANAGEMENT CONTROL,"Widener, Sally K.",12:30PM - 2:00PM TR MCN 212,1.5
+27049,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27049,MGMT 512,LEADING CHANGE,"Sonenshein, Scott B.",12:30PM - 2:00PM MW MCN 312,.75
+27050,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27050,MGMT 512,LEADING CHANGE,"Sonenshein, Scott B.",2:15PM - 3:45PM MW MCN 312,.75
+27052,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27052,MGMT 541,ECONOMIC ENVIRONMENT OF BUS,"Hund, John E.",12:30PM - 2:00PM MW MCN 314,1.5
+27053,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27053,MGMT 541,ECONOMIC ENVIRONMENT OF BUS,"Hund, John E.",2:15PM - 3:45PM MW MCN 314,1.5
+27054,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27054,MGMT 560,BUSINESS ETHICS,"Windsor, Duane",12:30PM - 2:00PM MW MCN 312,1
+27055,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27055,MGMT 560,BUSINESS ETHICS,"Windsor, Duane",2:15PM - 3:45PM MW MCN 312,1
+27056,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27056,MGMT 561,BUSINESS-GOVERNMENT RELATIONS,"Schuler, Doug",2:15PM - 3:45PM TR MCN 214,1.5
+27057,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27057,MGMT 571,STRAT FORM AND IMPLEMENTATION,"Koka, Balaji R.",2:15PM - 3:45PM TR MCN 314,1.5
+27058,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27058,MGMT 571,STRAT FORM AND IMPLEMENTATION,"Koka, Balaji R.",12:30PM - 2:00PM TR MCN 314,1.5
+27314,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27314,MGMT 574,OPERATIONS MANAGEMENT,"Hemmer, Thomas",4:00PM - 5:30PM MW MCN 216,1.5
+27061,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27061,MGMT 597,DATA ANALYSIS II,"Borle, Sharad W.",12:30PM - 2:00PM MW MCN 314,1.5
+27062,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27062,MGMT 597,DATA ANALYSIS II,"Borle, Sharad W.",2:15PM - 3:45PM MW MCN 314,1.5
+27063,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27063,MGMT 599,ACTION LEARNING PROJECT,"Kehoe, Kim", TBA TBA,3
+27064,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27064,MGMT 600,INTL ENERGY SIMULATION,"Arnold, William M.", TBA TBA,.5
+27065,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27065,MGMT 609,ENERGY CONSTRAINED WORLD,"Arnold, William M.",12:30PM - 2:00PM MW MCN 317,1.5
+27066,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27066,MGMT 609,ENERGY CONSTRAINED WORLD,"Arnold, William M.",6:15PM - 9:30PM M MCN 318,1.5
+27067,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27067,MGMT 619,CORPORATE GOVERNANCE,"Sanders, Gerry", TBA TBA,1.5
+27068,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27068,MGMT 621,THE NEW ENTERPRISE,"Napier, H Albert",10:15AM - 11:45AM TR MCN 212,3
+27069,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27069,MGMT 624,REAL ESTATE,"Finger, Jerry E.",9:00AM - 12:00PM T MCN 318,3
+27070,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27070,MGMT 626,VENTURE CAPITAL,"Garrou, Blair",6:15PM - 9:30PM M MCN 318,1.5
+27071,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27071,MGMT 627,ENTERPRISE EXCHANGE,"Atherton, Cliff",6:15PM - 9:30PM W MCN 316,3
+27072,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27072,MGMT 630,FINANCIAL MARKETS,"Butler, Alex",12:30PM - 2:00PM TR MCN 314,1.5
+27073,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27073,MGMT 633,LIFE SCIENCE ENTREPRENEURSHIP,"Gill, Jack M.; Ulrich, Robert; Mason, Sam",4:00PM - 5:59PM TR BRC 103,1.5
+27075,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27075,MGMT 639,MKTING OF PROF SERVICES,"Moore, Janet H.",6:15PM - 9:30PM M MCN 217,1.5
+27076,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27076,MGMT 643,PORTFOLIO MANAGEMENT I,"Foote, Jill",6:15PM - 10:15PM T MCN 318,3
+27077,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27077,MGMT 644,PORTFOLIO MANAGEMENT II,"Foote, Jill",6:15PM - 10:15PM T MCN 318,3
+27078,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27078,MGMT 647,CORPORATE FINANCIAL POLICY,"Grullon, Gustavo",2:15PM - 3:45PM MW MCN 214,1.5
+27079,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27079,MGMT 648,APPLIED FINANCE,"Kapadia, Nishad Y.",4:00PM - 5:30PM TR MCN 312,1.5
+27080,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27080,MGMT 648,APPLIED FINANCE,"Kapadia, Nishad Y.",12:30PM - 2:00PM TR MCN 212,1.5
+27303,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27303,MGMT 650,FUTURES AND OPTIONS II,"Xing, Yuhang",12:30PM - 2:00PM MW MCN 216,1.5
+27304,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27304,MGMT 651,FIXED INCOME MANAGEMENT,"Xing, Yuhang",12:30PM - 2:00PM MW MCN 216,1.5
+27083,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27083,MGMT 652,MERGERS & ACQUISITIONS,"Grullon, Gustavo",2:15PM - 3:45PM MW MCN 318,1.5
+27084,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27084,MGMT 652,MERGERS & ACQUISITIONS,"Grullon, Gustavo",6:15PM - 9:30PM W MCN 318,1.5
+27169,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27169,MGMT 654,RE CAP MARKETS: PUBLIC & PRIV,"Mastandrea, James C.",6:15PM - 9:30PM M MCN 316,1.5
+27085,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27085,MGMT 656,ENERGY DERIVATIVES,"Kaminski, Vincent",6:15PM - 9:30PM M MCN 216,3
+27086,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27086,MGMT 657,INTERNATIONAL FINANCE,"Hund, John E.",2:15PM - 3:45PM TR MCN 214,1.5
+27087,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27087,MGMT 657,INTERNATIONAL FINANCE,"Hund, John E.", TBA TBA,1.5
+27088,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27088,MGMT 658,APPLIED RISK MANAGEMENT,"Kapadia, Nishad Y.",6:15PM - 9:30PM M MCN 317,1.5
+27167,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27167,MGMT 660,LEGAL RISK,"Wilson, Reid C.",6:15PM - 9:30PM M MCN 316,1.5
+27089,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27089,MGMT 661,INTERNATIONAL BUSINESS LAW,"Hannan, John K.",6:15PM - 9:30PM T MCN 216,3
+27168,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27168,MGMT 664,LEADING OPERATIONAL CHANGE,"Flatt, Robert N.",8:30AM - 10:00AM TR MCN 314,1.5
+27090,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27090,MGMT 669,BUS STRATEGY IN THE ENERGY IND,"Papadopoulos, Phaedon", TBA TBA,1.5
+27091,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27091,MGMT 679,COST & QUALITY IN HEALTH CARE,"Whitney, Stephen",4:00PM - 5:30PM MW MCN 217,1.5 TO 3
+27092,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27092,MGMT 679,COST & QUALITY IN HEALTH CARE,"Whitney, Stephen",4:00PM - 5:30PM MW MCN 217,1.5 TO 3
+27093,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27093,MGMT 680,CUSTOMER ANALYTICS,"Westbrook, Robert A.",10:15AM - 11:45AM TR MCN 314,3
+27094,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27094,MGMT 681,MARKETING COMMUNICATIONS,"Carson, Gary K.",6:15PM - 9:30PM M MCN 218,1.5
+27095,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27095,MGMT 686,MARKETING RESEARCH,"Mittal, Vikas",10:15AM - 11:45AM TR MCN 317,1.5
+27096,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27096,MGMT 687,MARKETING STRATEGY,"Grant, Robert J.", TBA TBA,1.5
+27097,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27097,MGMT 690,HEALTHCARE STRATEGY,"Kale, Prashant", TBA TBA,1
+27098,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27098,MGMT 691,NEGOTIATIONS FOR HEALTHCARE,"Masters, Marick", TBA TBA,1.5
+27170,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27170,MGMT 692,CUSTOMER RELATIONSHIP MGMT,"Porter, Constance E.",4:00PM - 5:30PM TR MCN 312,1.5
+27099,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27099,MGMT 694,INTERPERSL COMM IN HEALTHCARE,"O'Sullivan, Beth; Tobin, David N.",6:15PM - 9:30PM T MCN 218,1.5
+27100,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27100,MGMT 695,STOCK ANALYSIS,"Gualy, John F.",6:15PM - 9:30PM T MCN 212,1.5
+27171,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27171,MGMT 696,SECURITY ANALYSIS,"Watson, Dan", TBA TBA,1.5
+27101,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27101,MGMT 700,INDEPENDENT STUDY,"Ferguson, Sean O.", TBA TBA,.25 TO 4
+27102,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27102,MGMT 700,INDEPENDENT STUDY,"Ferguson, Sean O.", TBA TBA,.25 TO 4
+27103,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27103,MGMT 702,MEXICO STUDY ABROAD,"Ferguson, Sean O.", TBA TBA,1
+27104,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27104,MGMT 705,FIELD STUDY - AMERICAN BUS III,"Clayton, Crystal L.", TBA TBA,0
+27105,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27105,MGMT 714,CAREER STRATEGY,,6:15PM - 9:30PM W MCN 217,1.5
 27008,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27008,MGMT 716,INNOV.DESIGN & CONST. INDUSTRY,"Cannady, William T.; Thomsen, Charles B.",12:30PM - 2:00PM TR MCN 317,3
+27106,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27106,MGMT 721,BUSINESS LAW,"Butler, Lee Ann E.", TBA TBA,1.5
+27107,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27107,MGMT 726,FIXED INCOME SIMULATION,"Foote, Jill",4:00PM - 6:00PM M MCN 318,2
+27109,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27109,MGMT 737,INVESTOR RELATIONS,"Palizza, John M.",12:30PM - 2:00PM TR MCN 214,1.5
+27172,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27172,MGMT 737,INVESTOR RELATIONS,"Palizza, John M.", TBA TBA,1.5
+27220,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27220,MGMT 740,MURPHREE VENTURES INTERNSHIP,"Napier, H Albert", TBA TBA,3
+27110,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27110,MGMT 745,INTL ENERGY DEVELOPMENT,"Gaille, S. S.",2:15PM - 3:45PM MW MCN 214,1.5
+27111,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27111,MGMT 749,TOPICS IN FAMILY BUSINESS MGMT,"Atherton, Cliff",6:15PM - 9:30PM T MCN 217,1.5
+27112,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27112,MGMT 753,HOUSTON ANGEL NETWORK,"Napier, H Albert", TBA TBA,3
+27113,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27113,MGMT 759,DIGITAL BUSINESS EXCELLENCE,"McAvey, Richard A.", TBA TBA,1.5
+27118,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27118,MGMT 768,LEGAL ISSUES IN M&A,"Arnold, Laura E.",2:15PM - 3:45PM TR MCN 314,1.5
+27119,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27119,MGMT 769,WASTE MANAGEMENT INTERNSHIP,"Napier, H Albert", TBA TBA,3
+27221,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27221,MGMT 771,SOCIAL MEDIA,"Kimmey, Kim E.; Jurkowska-Krupa, Beata",6:15PM - 9:30PM W MCN 218,1.5
+27120,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27120,MGMT 772,RICE ALLIANCE INTERNSHIP,"Napier, H Albert", TBA TBA,3
+27219,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27219,MGMT 773,SURGE INTERNSHIP,"Napier, H Albert", TBA TBA,3
+27121,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27121,MGMT 782,TEAM DYNAMICS II,"Kehoe, Kim; Grojean, Michael W.", TBA TBA,.5
+27174,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27174,MGMT 782,TEAM DYNAMICS II,"Kehoe, Kim; Grojean, Michael W.", TBA TBA,.5
+27122,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27122,MGMT 786,INTL BUSINESS BRIEFING-CHINA,"Li, Haiyang", TBA TBA,1.5
+27123,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27123,MGMT 789,INTL BUSINESS BRIEFING - INDIA,"Moore, Janet H.", TBA TBA,1.5
+27124,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27124,MGMT 796,LEADERSHIP DEVELOPMENT II,"Kehoe, Kim", TBA TBA,.5
+27125,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27125,MGMT 797,INTL BUSINESS BRIEFING-S. AMER,"Arnold, William M.", TBA TBA,1.5
+27126,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27126,MGMT 800,INDEPENDENT STUDY,, TBA TBA,1.5 TO 3
+27127,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27127,MGMT 802,COST MANAGEMENT,"Vargus, Mark E.", TBA TBA,1.5
+27128,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27128,MGMT 802,COST MANAGEMENT,"Vargus, Mark E.", TBA TBA,1.5
+27129,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27129,MGMT 806,EXEC 2ND YEAR CAPSTONE,"VanHorn, David", TBA TBA,3
+27130,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27130,MGMT 817,DECISION STRATEGIES,"Skinner, David C.", TBA TBA,2
+27173,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27173,MGMT 830,STRATEGIC IT,"Gorry, Tony", TBA TBA,2
+27131,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27131,MGMT 843,CORPORATE FINANCIAL MANAGEMENT,"Kanatas, George; Butler, Alex", TBA TBA,3
+27132,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27132,MGMT 843,CORPORATE FINANCIAL MANAGEMENT,"Kanatas, George; Butler, Alex", TBA TBA,3
+27133,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27133,MGMT 860,BUSINESS ETHICS,"Windsor, Duane", TBA TBA,1.5
+27134,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27134,MGMT 860,BUSINESS ETHICS,"Windsor, Duane", TBA TBA,1.5
+27135,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27135,MGMT 866,PUBLIC POLICY MGMT & ADVOCACY,"Kelly, John R.", TBA TBA,2
+27136,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27136,MGMT 872,STRATEGY THEORY & ACTION II,"Koka, Balaji R.", TBA TBA,1.5
+27137,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27137,MGMT 872,STRATEGY THEORY & ACTION II,"Koka, Balaji R.", TBA TBA,1.5
+27138,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27138,MGMT 874,OPERATIONS MANAGEMENT,"Hegde, Gajanan G.", TBA TBA,1.5
+27139,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27139,MGMT 874,OPERATIONS MANAGEMENT,"Hegde, Gajanan G.", TBA TBA,1.5
+27140,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27140,MGMT 880,STRATEGIC MARKETING,"Westbrook, Robert A.", TBA TBA,3
+27141,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27141,MGMT 880,STRATEGIC MARKETING,"Westbrook, Robert A.", TBA TBA,3
+27142,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27142,MGMT 881,CONSULTATIVE SELLING,"Schell, Rick", TBA TBA,2
+27143,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27143,MGMT 897,LEADERSHIP COMMUNICATIONS II,"O'Sullivan, Beth; Hampton, Lawrence P.", TBA TBA,1.5
+27144,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27144,MGMT 897,LEADERSHIP COMMUNICATIONS II,"O'Sullivan, Beth; Hampton, Lawrence P.", TBA TBA,1.5
+27145,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27145,MGMT 908,NEGOTIATIONS II,"Zhou, Jing", TBA TBA,1.5
+27146,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27146,MGMT 908,NEGOTIATIONS II,"Zhou, Jing", TBA TBA,1.5
+27147,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27147,MGMT 927,ENTREPRENEURSHIP,"Napier, H Albert", TBA TBA,2.5
+27148,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27148,MGMT 927,ENTREPRENEURSHIP,"Napier, H Albert", TBA TBA,2.5
+27149,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27149,MGMT 928,ENTERPRISE EXCHANGE,"Williams, Edward E.", TBA TBA,2
+27175,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27175,MGMT 932,CORP GOV & FINANCIAL REPORTING,"Ramesh, Kris", TBA TBA,2
+27150,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27150,MGMT 952,MERGERS AND ACQUISITIONS,"Hackett, Jim", TBA TBA,2
+27151,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27151,MGMT 985,GLOBAL LEADERSHIP,"Dickson, Marcus W.", TBA TBA,1.5
+27152,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27152,MGMW 502,MANAGERIAL ACCOUNTING,"Uecker, Wil", TBA TBA,1.5
+27153,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27153,MGMW 543,FINANCE,"Grullon, Gustavo", TBA TBA,3
+27154,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27154,MGMW 561,BUS - GOVERNMENT RELATIONS,"Sauer, Nancy L.", TBA TBA,1.5
+27155,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27155,MGMW 571,STRATEGIC FORMULA AND IMPL.,"Kale, Prashant", TBA TBA,1.5
+27156,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27156,MGMW 574,OPERATIONS,"Hemmer, Thomas", TBA TBA,1.5
+27157,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27157,MGMW 580,MARKETING,"Mittal, Vikas", TBA TBA,3
+27158,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27158,MGMW 597,ICE ILE,"Cohen, Dinah", TBA TBA,1.5
+27159,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27159,MGMW 706,LEADERSHIP,"Sonenshein, Scott B.", TBA TBA,1.5
+27160,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27160,MGMW 798,FIRST YEAR CAPSTONE,"Ferguson, Sean O.", TBA TBA,1.5
+27161,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27161,MGMW 799,PROGRAM CAPSTONE,"VanHorn, David", TBA TBA,3
 22106,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=22106,MILI 109,INTRO TO PHYSICAL FITNESS,,6:30AM - 7:30AM MWF TBA TBA,1
 22024,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=22024,MILI 302,ADVANCED LEADERSHIP II,,7:30AM - 9:00AM MW TBA TBA,3
 22025,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=22025,MILI 304,LEADERSHIP LABORATORY,,3:00PM - 4:59PM W TBA TBA,0
+27277,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27277,MLSC 505,SHAKESPEARE AND FILM,"Huston, J. Dennis",6:15PM - 9:30PM R HUM 328,3
+27278,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27278,MLSC 525,PLAGUES AND POPULATIONS,"Novotny, Alma M.",6:15PM - 9:30PM M HUM 328,3
+27500,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27500,MLSC 532,THE GRAND DESIGN,"Freeman, John W.",6:15PM - 9:30PM W BRK 103,3
+27501,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27501,MLSC 534,HUMAN RIGHTS IN WORLD AFFAIRS,"Cohen, Daniel",6:15PM - 9:30PM T HUM 226,3
+27279,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27279,MLSC 600,INTRO GRAD RESEARCH & WRITING,"Barrett, Deborah J.",6:15PM - 9:30PM W HUM 327,3
+27502,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27502,MLSC 600,INTRO GRAD RESEARCH & WRITING,"Barrett, Deborah J.",6:15PM - 9:30PM M HUM 120,3
+27280,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27280,MLSC 610,PSYCHOLOGY OF HAPPINESS,"Schneider, David J.",6:15PM - 9:30PM R HUM 226,3
+27281,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27281,MLSC 612,THE DEAD SEA SCROLLS,"Henze, Matthias",6:15PM - 9:30PM W HUM 328,3
+27503,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27503,MLSC 617,CREATIVE NONFICTION,"Barrett, Deborah J.",6:15PM - 9:30PM W HRG 224,3
+27504,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27504,MLSC 622,ANCIENT AND MEDIEVAL BRITAIN,"Boyd, Newell D.",6:15PM - 9:30PM R HUM 227,3
+27346,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27346,MLSC 700,CAPSTONE,"Freeman, John W.", TBA TBA,3
+27347,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27347,MLSC 700,CAPSTONE,"Schneider, David J.", TBA TBA,3
+27348,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27348,MLSC 700,CAPSTONE,"Bailey, Nancy G.", TBA TBA,3
+27349,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27349,MLSC 700,CAPSTONE,"Huston, J. Dennis", TBA TBA,3
+27350,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27350,MLSC 700,CAPSTONE,"Neagley, Linda", TBA TBA,3
+27351,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27351,MLSC 700,CAPSTONE,"Barrett, Deborah J.", TBA TBA,3
+27506,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27506,MLSC 700,CAPSTONE,"Schneider, David J.", TBA TBA,3
 20617,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20617,MSCI 303,MATERIALS SCIENCE JUNIOR LAB,"Cisneros, Gary L.",1:00PM - 3:59PM W TBA TBA,1
 20618,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=20618,MSCI 404,MATERIALS ENGINEERING & DESIGN,"Barrera, Enrique V.",3:15PM - 5:15PM M KCK 107,4
 24668,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24668,MSCI 411,METALLOGRAPHY & PHASE RELATION,"McLellan, Rex B.",6:15PM - 9:00PM T DCH 1075,3
@@ -1613,6 +1819,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 24538,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=24538,NEUR 416,THEORETICAL NEUROSCIENCE II,"Shouval, Harel; Ma, Whee Ky",9:25AM - 10:40AM TR TBA TBA,3
 22925,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=22925,NEUR 485,NEUROSCIENCE IND STUDY,"Kemmer, Suzanne E.", TBA TBA,1 TO 3
 27386,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=27386,NEUR 523,GENETICS FOR NEUROSCIENCE,"Kemmer, Suzanne E.",2:00PM - 3:30PM TR TBA TBA,3
+23710,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=23710,NEUR 576,NEUROBIOLOGY OF DISEASE,"Kemmer, Suzanne E.",3:00PM - 4:59PM F TBA TBA,3
 23695,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=23695,NEUR 578,HIGHER BRAIN FUNCTION,"Kemmer, Suzanne E.", TBA TBA,3
 25844,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25844,NSCI 281,EMT-B INTRO TO EMERGENCY CARE,"Feldman, Ian R.; Basgall, Lisa M.; Traynor, Kevin M.",6:00PM - 10:00PM MW KCK 101,3
 26827,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26827,NSCI 282,ADVANCED EMT,"Basgall, Lisa M.; Kienast, Wilhelm A.", TBA TBA,3
@@ -1951,6 +2158,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 22828,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=22828,STAT 411,ADVANCED STATISTICAL METHODS,"Thompson, James R.",1:00PM - 2:15PM TR DCH 1070,3
 25439,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25439,STAT 422,BAYESIAN DATA ANALYSIS,"Vannucci, Marina; Baladandayuthapani, Veerabhadran",2:30PM - 3:45PM MW DCH 1046,3
 26930,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=26930,STAT 423,PROB BIOINFORMATICS & GENETICS,"Kimmel, Marek",10:50AM - 12:05PM TR DCH 1075,3
+23305,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=23305,STAT 440,STATISTICS FOR BIOENGINEERING,"Vannucci, Marina",9:00AM - 9:50AM MWF HRG 100,1
 25437,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=25437,STAT 449,QUAN FINANCIAL RISK MANAGEMENT,"Dobelman, John A.; Egbulefu, Joseph O.",1:00PM - 2:15PM MW DCH 1075,3
 23647,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=23647,STAT 450,STATISTICAL DESIGN IN PRACTICE,"Ensor, Katherine", TBA TBA,3
 21741,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201220&p_crn=21741,STAT 453,BIOSTATISTICS,"Yuan, Ying; Zhang, Li",4:00PM - 5:15PM TR BRC 286,3

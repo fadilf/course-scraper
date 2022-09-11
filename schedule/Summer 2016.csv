@@ -1,4 +1,10 @@
 CRN,URL,Course,Title,Instructors,Course Meeting,Credits
+30128,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30128,ANTH 201,INTRO TO SOCIAL/CULTURAL ANTH,"Mitchell, Beverly M.",1:00PM - 3:20PM TWR SEW 562,3
+30257,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30257,ANTH 364,AFRICAN ARCHAEOLOGY,"Fleisher, Jeffrey B.", TBA TBA,3
+30259,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30259,ANTH 364,AFRICAN ARCHAEOLOGY,"Fleisher, Jeffrey B.", TBA TBA,1 TO 3
+30129,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30129,ANTH 386,"MEDICINE, FOOD, AND HEALTH","Mitchell, Beverly M.",5:30PM - 7:50PM TWR SEW 562,3
+30258,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30258,ANTH 564,AFRICAN ARCHAEOLOGY,"Fleisher, Jeffrey B.", TBA TBA,3
+30260,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30260,ANTH 564,AFRICAN ARCHAEOLOGY,"Fleisher, Jeffrey B.", TBA TBA,1 TO 3
 30606,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30606,ANTH 800,RESEARCH AND THESIS,"Faubion, Jim", TBA TBA,3 TO 9
 30607,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30607,ANTH 800,RESEARCH AND THESIS,"Georges, Eugenia", TBA TBA,3 TO 9
 30318,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30318,ANTH 800,RESEARCH AND THESIS,"Howe, Cymene", TBA TBA,3 TO 9
@@ -32,6 +38,9 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30110,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30110,APPL 800,RESEARCH AND THESIS,"de Hoop, Maarten V.", TBA TBA,1 TO 15
 30111,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30111,APPL 800,RESEARCH AND THESIS,"Veeraraghavan, Ashok", TBA TBA,1 TO 15
 30609,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30609,APPL 800,RESEARCH AND THESIS,"Deem, Michael W.", TBA TBA,1 TO 15
+30469,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30469,BIOC 007,VISITING RESEARCH,"Silberg, Joff", TBA TBA,0
+30470,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30470,BIOC 007,VISITING RESEARCH,"Silberg, Joff", TBA TBA,0
+30312,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30312,BIOC 201,INTRODUCTORY BIOLOGY,"Edlund, Renee K.",9:00AM - 11:30AM MTWRF ABL 123,3
 30400,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30400,BIOC 310,IND RES FOR BIOC UNDERGRADS,"Cates, Susan", TBA TBA,1 TO 3
 30401,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30401,BIOC 310,IND RES FOR BIOC UNDERGRADS,"Beckingham, Kathleen M.", TBA TBA,1 TO 3
 30402,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30402,BIOC 310,IND RES FOR BIOC UNDERGRADS,"Bennett, Matthew", TBA TBA,1 TO 3
@@ -46,6 +55,9 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30396,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30396,BIOC 310,IND RES FOR BIOC UNDERGRADS,"Saltz, Julia B.", TBA TBA,1 TO 3
 30406,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30406,BIOC 310,IND RES FOR BIOC UNDERGRADS,"Kirienko, Natasha", TBA TBA,1 TO 3
 30265,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30265,BIOC 310,IND RES FOR BIOC UNDERGRADS,"Beason-Abmayr, Beth", TBA TBA,1 TO 3
+30390,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30390,BIOC 320,LABORATORY IN TISSUE CULTURE,"Ghosn, Bilal",9:00AM - 4:00PM MTWF TBA TBA,1
+30263,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30263,BIOC 341,CELL BIOLOGY,"McNew, James A.",10:30AM - 12:00PM MTWRF BRC 285,3
+30387,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30387,BIOC 587,PROPOSAL WRITING,"Eich, Elizabeth A.", TBA TBA,3
 30268,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30268,BIOC 800,BCB GRADUATE RESEARCH,"Braam, Janet", TBA TBA,1 TO 15
 30270,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30270,BIOC 800,BCB GRADUATE RESEARCH,"Bartel, Bonnie", TBA TBA,1 TO 15
 30271,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30271,BIOC 800,BCB GRADUATE RESEARCH,"Beckingham, Kathleen M.", TBA TBA,1 TO 15
@@ -77,8 +89,24 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30297,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30297,BIOC 800,BCB GRADUATE RESEARCH,"Tao, Yizhi J.; Zhong, Weiwei", TBA TBA,1 TO 15
 30298,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30298,BIOC 800,BCB GRADUATE RESEARCH,"Levine, Herbert; Farach-Carson, Cindy", TBA TBA,1 TO 15
 30286,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30286,BIOC 800,BCB GRADUATE RESEARCH,"Warmflash, Aryeh", TBA TBA,1 TO 15
+30436,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30436,BIOE 007,VISITING RESEARCH,"Zhang, David Y.", TBA TBA,0
+30437,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30437,BIOE 007,VISITING RESEARCH,"Zhang, David Y.", TBA TBA,0
+30453,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30453,BIOE 007,VISITING RESEARCH,"Deem, Michael W.", TBA TBA,0
+30454,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30454,BIOE 007,VISITING RESEARCH,"Deem, Michael W.", TBA TBA,0
+30458,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30458,BIOE 007,VISITING RESEARCH,"Mikos, Antonios G.", TBA TBA,0
+30475,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30475,BIOE 007,VISITING RESEARCH,"Li, Qilin", TBA TBA,0
+30476,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30476,BIOE 007,VISITING RESEARCH,"Li, Qilin", TBA TBA,0
+30477,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30477,BIOE 007,VISITING RESEARCH,"Alvarez, Pedro J.", TBA TBA,0
+30478,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30478,BIOE 007,VISITING RESEARCH,"Alvarez, Pedro J.", TBA TBA,0
+30169,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30169,BIOE 342,LABORATORY IN TISSUE CULTURE,"Ghosn, Bilal",9:00AM - 4:00PM MTWF TBA TBA,1
 30168,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30168,BIOE 401,UNDERGRADUATE RESEARCH,"Ramos, Renata F.", TBA TBA,1 TO 3
 30319,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30319,BIOE 500,GRADUATE RESEARCH,"Raphael, Rob", TBA TBA,1 TO 15
+30411,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30411,BIOE 506,GRADUATE INDEPENDENT STUDY,"Richardson, Eric S.", TBA TBA,1 TO 6
+30410,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30410,BIOE 600,GRAD BIOE INDUSTRY INTERNSHIP,"Richardson, Eric S.; Van Kleeck, David A.", TBA TBA,3 TO 6
+30150,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30150,BUSI 305,FINANCIAL ACCOUNTING,"Lind, Gary D.",3:00PM - 4:50PM MTWR MCN 216,3
+30151,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30151,BUSI 343,FINANCIAL MANAGEMENT,"Spyridopoulos, Ioannis",3:00PM - 4:50PM MTWR MCN 316,3
+30341,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30341,BUSI 405,ISSUES IN FINANCIAL REPORTNG I,"Lansford, Benjamin N.",1:30PM - 4:00PM MTWRF MCN 316,3
+30342,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30342,BUSI 440,AUDITING,"Bronson, Scott N.",9:00AM - 11:30AM MTWRF MCN 316,3
 30420,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30420,BUSI 800,PHD RESEARCH,"Ramesh, Kris", TBA TBA,1 TO 12
 30421,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30421,BUSI 800,PHD RESEARCH,"Back, Kerry E.", TBA TBA,1 TO 12
 30422,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30422,BUSI 800,PHD RESEARCH,"Borle, Sharad W.", TBA TBA,1 TO 12
@@ -91,6 +119,8 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30317,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30317,CAAM 491,UNDERGRAD RESEARCH PROJECTS,, TBA TBA,1 TO 3
 30314,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30314,CAAM 591,GRADUATE RESEARCH PROJECTS,"Riviere, Beatrice", TBA TBA,1 TO 15
 30316,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30316,CAAM 800,RESEARCH AND THESIS,"Riviere, Beatrice", TBA TBA,1 TO 15
+30435,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30435,CEVE 007,VISITING RESEARCH,"Alvarez, Pedro J.", TBA TBA,0
+30465,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30465,CEVE 007,VISITING RESEARCH,"Li, Qilin", TBA TBA,0
 30012,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30012,CEVE 652,M.S. RESEARCH AND THESIS,"Bedient, Philip B.", TBA TBA,1 TO 15
 30013,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30013,CEVE 652,M.S. RESEARCH AND THESIS,"Nagarajaiah, Satish", TBA TBA,1 TO 15
 30014,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30014,CEVE 652,M.S. RESEARCH AND THESIS,"Shahsavari, Rouzbeh", TBA TBA,1 TO 15
@@ -107,6 +137,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30009,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30009,CEVE 800,PH.D. RESEARCH AND THESIS,"Shahsavari, Rouzbeh", TBA TBA,1 TO 15
 30010,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30010,CEVE 800,PH.D. RESEARCH AND THESIS,"Stanciulescu, Ilinca", TBA TBA,1 TO 15
 30011,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30011,CEVE 800,PH.D. RESEARCH AND THESIS,"Tomson, Mason B.", TBA TBA,1 TO 15
+30474,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30474,CHBE 007,VISITING RESEARCH,"Vargas, Francisco M.", TBA TBA,0
 30389,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30389,CHBE 499,UNDERGRADUATE RESEARCH,"Vargas, Francisco M.", TBA TBA,1 TO 3
 30432,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30432,CHBE 499,UNDERGRADUATE RESEARCH,"Gonzalez, Ramon", TBA TBA,1 TO 3
 30473,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30473,CHBE 499,UNDERGRADUATE RESEARCH,"Biswal, Sibani L.", TBA TBA,1 TO 3
@@ -128,6 +159,11 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30672,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30672,CHBE 800,GRADUATE RESEARCH,"Mikos, Antonios G.", TBA TBA,1 TO 15
 30673,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30673,CHBE 800,GRADUATE RESEARCH,"Suh, Junghae", TBA TBA,1 TO 15
 30322,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30322,CHEM 007,VISITING RESEARCH,, TBA TBA,0
+30311,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30311,CHEM 101,INTRO SCIENTIFIC RESEARCH,"Gilbertson, Michelle L.",9:00AM - 5:00PM MTWRF DBH 210,5
+30240,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30240,CHEM 211,ORGANIC CHEMISTRY I,"Yost, Julianne",10:00AM - 11:50AM MTWRF GRB W211,3
+30241,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30241,CHEM 212,ORGANIC CHEMISTRY II,"Yost, Julianne",10:00AM - 12:05PM MTWR GRB W211,3
+30362,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30362,CHEM 213,ORGANIC CHEMISTRY DISCUSSION,"Yost, Julianne",1:00PM - 1:50PM TR GRB W211,0
+30363,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30363,CHEM 214,ORGANIC CHEM DISCUSSION II,"Yost, Julianne",1:00PM - 1:50PM TR GRB W211,0
 30404,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30404,CHEM 491,RESEARCH FOR UNDERGRADUATES,"Yost, Julianne", TBA TBA,1 TO 3
 30321,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30321,CHEM 800,GRADUATE RESEARCH,"Ajayan, Pulickel M.", TBA TBA,1 TO 15
 30613,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30613,CHEM 800,GRADUATE RESEARCH,"Alvarez, Pedro J.", TBA TBA,1 TO 15
@@ -159,11 +195,17 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30639,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30639,CHEM 800,GRADUATE RESEARCH,"Verduzco, Rafael", TBA TBA,1 TO 15
 30640,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30640,CHEM 800,GRADUATE RESEARCH,"Zubarev, Eugene", TBA TBA,1 TO 15
 30641,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30641,CHEM 800,GRADUATE RESEARCH,"Young, Damian W.", TBA TBA,1 TO 15
+30223,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30223,CHIN 263,SECOND YEAR CHINESE I,"Yeh, Meng", TBA TBA,3
+30224,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30224,CHIN 264,SECOND YEAR CHINESE II,"Yeh, Meng", TBA TBA,3
+30171,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30171,COMM 300,COMMUNICATION IN DIGITAL AGE,"Nixon, Burke T.",1:00PM - 2:50PM MTWR RZR 302,3
+30353,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30353,COMM 300,COMMUNICATION IN DIGITAL AGE,"Klein, Andrew A.",8:30AM - 10:20AM MTWR RZR 202,3
+30253,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30253,COMP 130,ELEMENTS OF ALGORITHMS & COMP,"Greiner, John D.", TBA TBA,4
 30446,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30446,COMP 390,COMPUTER SCIENCE PROJECTS,"Lieberman-Aiden, Erez", TBA TBA,1 TO 3
 30544,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30544,COMP 590,COMPUTER SCIENCE PROJECTS,"Nakhleh, Luay", TBA TBA,1 TO 4
 30545,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30545,COMP 590,COMPUTER SCIENCE PROJECTS,"Warren, Joe D.", TBA TBA,1 TO 4
 30546,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30546,COMP 590,COMPUTER SCIENCE PROJECTS,"Cartwright, Robert S.", TBA TBA,1 TO 4
 30547,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30547,COMP 590,COMPUTER SCIENCE PROJECTS,"Subramanian, Devika", TBA TBA,1 TO 4
+30431,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30431,COMP 591,GRAD COMPUTER SCIENCE TEACHING,"Ng, T. S. Eugene", TBA TBA,3
 30251,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30251,COMP 690,RESEARCH AND THESIS,"Mellor-Crummey, John M.", TBA TBA,1 TO 12
 30252,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30252,COMP 800,GRADUATE RESEARCH,"Cox, Alan L.", TBA TBA,1 TO 15
 30529,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30529,COMP 800,GRADUATE RESEARCH,, TBA TBA,1 TO 15
@@ -187,6 +229,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30440,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30440,EBIO 306,EEB UNDERGRADUATES IND RES,"Solomon, Scott E.", TBA TBA,1 TO 3
 30392,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30392,EBIO 306,EEB UNDERGRADUATES IND RES,"Saltz, Julia B.", TBA TBA,1 TO 3
 30407,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30407,EBIO 306,EEB UNDERGRADUATES IND RES,"Kirienko, Natasha", TBA TBA,1 TO 3
+30313,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30313,EBIO 319,TROPICAL FIELD BIOLOGY,"Solomon, Scott E.; Simoes Correa, Adrienne M.", TBA TBA,2
 30299,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30299,EBIO 801,EEB GRADUATE RESEARCH,"Dunham, Amy E.", TBA TBA,1 TO 15
 30300,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30300,EBIO 801,EEB GRADUATE RESEARCH,"Miller, Thomas E.", TBA TBA,1 TO 15
 30301,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30301,EBIO 801,EEB GRADUATE RESEARCH,"Kohn, Michael", TBA TBA,1 TO 15
@@ -199,6 +242,14 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30308,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30308,EBIO 801,EEB GRADUATE RESEARCH,"Solomon, Scott E.", TBA TBA,1 TO 15
 30309,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30309,EBIO 801,EEB GRADUATE RESEARCH,"Weinersmith, Kelly L.", TBA TBA,1 TO 15
 30310,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30310,EBIO 801,EEB GRADUATE RESEARCH,"Zhu, Kai", TBA TBA,1 TO 15
+30130,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30130,ECON 100,PRINCIPLES OF ECONOMICS,"DeNicco, James P.",1:00PM - 2:30PM MTWRF BKH 229,3
+30460,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30460,ECON 100,PRINCIPLES OF ECONOMICS,"DeNicco, James P.", TBA TBA,3
+30148,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30148,ECON 307,PROBABILITY & STATISTICS,"Dobelman, John A.",1:00PM - 4:30PM TR DCH 1042,3
+30187,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30187,ECON 606,CORP FINANCE - ENERGY SECTOR,"Cacho-Diaz, Julio A.",6:00PM - 9:35PM MW BKH 102,4
+30188,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30188,ECON 611,GEOPOLITICS OF ENERGY,"Krane, James M.",8:30AM - 11:50AM TR BKH 102,4
+30189,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30189,ECON 612,MGMT OF PUBLIC POLICY ISSUES,"Kelly, John R.",8:30AM - 12:05PM MW BKH 102,4
+30190,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30190,ECON 614,POLITICAL ECONOMY OF OIL,"Monaldi, Francisco J.",6:00PM - 9:20PM TR BKH 102,4
+30191,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30191,ECON 699,INTERNSHIP-ENERGY ECONOMICS,"Medlock, Kenneth B.", TBA TBA,4
 30186,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30186,ECON 800,GRADUATE RESEARCH,"Eraslan, Hulya", TBA TBA,1 TO 12
 30674,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30674,ECON 800,GRADUATE RESEARCH,"Back, Kerry E.", TBA TBA,1 TO 12
 30675,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30675,ECON 800,GRADUATE RESEARCH,"Cunha, Flavio A.", TBA TBA,1 TO 12
@@ -209,7 +260,18 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30680,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30680,ECON 800,GRADUATE RESEARCH,"Tang, Xun", TBA TBA,1 TO 12
 30681,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30681,ECON 800,GRADUATE RESEARCH,"Dudey, Marc P.", TBA TBA,1 TO 12
 30682,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30682,ECON 800,GRADUATE RESEARCH,"Zodrow, George R.", TBA TBA,1 TO 12
+30199,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30199,EDUC 305,EDUCATIONAL PSYCHOLOGY,"Radigan, Judy A.",12:00PM - 3:55PM MW HBH 21,3
+30203,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30203,EDUC 323,CREATIVE WRITING IN CLASSROOM,"Capo, Karen V.",9:00AM - 11:00AM MTWRF HBH 21,3
+30200,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30200,EDUC 505,EDUCATIONAL PSYCHOLOGY,"Radigan, Judy A.",12:00PM - 3:55PM MW HBH 21,3
+30204,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30204,EDUC 523,CREATIVE WRITING IN CLASSROOM,"Capo, Karen V.",9:00AM - 11:00AM MTWRF HBH 21,3
+30347,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30347,ELEC 007,VISITING RESEARCH,"Zhong, Lin", TBA TBA,0
+30348,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30348,ELEC 007,VISITING RESEARCH,"Halas, Naomi", TBA TBA,0
+30462,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30462,ELEC 007,VISITING RESEARCH,"Babakhani, Aydin", TBA TBA,0
+30463,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30463,ELEC 007,VISITING RESEARCH,"Babakhani, Aydin", TBA TBA,0
+30450,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30450,ELEC 492,NAKATANI RIES FELLOWSHIP,"Kono, Junichiro", TBA TBA,3
+30213,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30213,ELEC 492,NAKATANI RIES FELLOWSHIP,"Kono, Junichiro", TBA TBA,3
 30323,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30323,ELEC 590,GR NON-THESIS RES PROJECTS,, TBA TBA,1 TO 6
+30449,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30449,ELEC 599,1ST YEAR GRAD STUDENTS PROJECT,"Azhang, Behnaam", TBA TBA,6
 30324,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30324,ELEC 800,RESEARCH AND THESIS,"Azhang, Behnaam", TBA TBA,1 TO 15
 30484,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30484,ELEC 800,RESEARCH AND THESIS,"Babakhani, Aydin", TBA TBA,1 TO 15
 30485,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30485,ELEC 800,RESEARCH AND THESIS,"Baraniuk, Richard G", TBA TBA,1 TO 15
@@ -242,6 +304,10 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30565,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30565,ELEC 800,RESEARCH AND THESIS,"Link, Stephan", TBA TBA,1 TO 15
 30121,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30121,EMSP 491,EMS RESEARCH COURSE,"Basgall, Lisa M.", TBA TBA,3
 30122,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30122,EMSP 492,EMS RESEARCH COURSE,"Basgall, Lisa M.", TBA TBA,3
+30412,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30412,ENGI 007,VISITING RESEARCH,"Oden, Z. Maria; Wettergreen, Matthew A.", TBA TBA,0
+30413,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30413,ENGI 007,VISITING RESEARCH,"Oden, Z. Maria; Wettergreen, Matthew A.", TBA TBA,0
+30154,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30154,ENGL 305,INTRO CREATIVE NONFICT WRITING,"Schimmel, Ian B.",6:00PM - 8:30PM MTWRF HRG 224,3
+30156,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30156,ENGL 320,SHAKESPEARE ON FILM,"Ellis-Etchison, John W.",12:00PM - 1:50PM MTWR HUM 226,3
 30325,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30325,ENGL 703,RESEARCH LEADING TO CANDIDACY,"Michie, Helena", TBA TBA,1 TO 9
 30326,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30326,ENGL 704,RESEARCH LEADING TO CANDIDACY,"Michie, Helena", TBA TBA,1 TO 15
 30327,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30327,ENGL 800,PHD RESEARCH AND THESIS,"Michie, Helena", TBA TBA,1 TO 9
@@ -267,7 +333,14 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30527,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30527,ESCI 800,THESIS RESEARCH,"Yeung, Laurence", TBA TBA,1 TO 15
 30514,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30514,ESCI 800,THESIS RESEARCH,, TBA TBA,1 TO 15
 30526,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30526,ESCI 800,THESIS RESEARCH,, TBA TBA,1 TO 15
+30227,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30227,FREN 263,SECOND YEAR FRENCH I,"Emami, Maryam", TBA TBA,3
+30228,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30228,FREN 264,SECOND YEAR FRENCH II,"Emami, Maryam", TBA TBA,3
+30229,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30229,GERM 263,SECOND YEAR GERMAN I,"Kley, Katharina", TBA TBA,3
+30230,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30230,GERM 264,SECOND YEAR GERMAN II,"Kley, Katharina", TBA TBA,3
+30192,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30192,GLBL 503,INTRODUCTION TO STATISTICS,"Alles, Santiago M.",6:00PM - 7:15PM MTWRF BKH 116,1.5
 30409,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30409,GLBL 573,NON-THESIS GRADUATE RESEARCH,"Jones, Mark P.", TBA TBA,3
+30261,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30261,HART 397,HART IN THE WORLD - ROME,"Hopkins, John", TBA TBA,3
+30262,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30262,HART 697,HART IN THE WORLD - ROME,"Hopkins, John", TBA TBA,3
 30368,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30368,HART 800,DISSERTATION RESEARCH,"Costello, Leo", TBA TBA,1 TO 9
 30369,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30369,HART 800,DISSERTATION RESEARCH,"Hamadeh, Shirine T.", TBA TBA,1 TO 9
 30370,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30370,HART 800,DISSERTATION RESEARCH,"Hughes, Gordon A.", TBA TBA,1 TO 9
@@ -277,13 +350,47 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30374,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30374,HART 800,DISSERTATION RESEARCH,"Lopez Duran, Maria Fabiola", TBA TBA,1 TO 9
 30414,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30414,HART 800,DISSERTATION RESEARCH,"Bader, Graham P.", TBA TBA,1 TO 9
 30415,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30415,HART 800,DISSERTATION RESEARCH,"Hopkins, John", TBA TBA,1 TO 9
+30143,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30143,HEAL 119,INTRO TO HEALTH & WELLNESS,"Rodriguez, Augusto X.",8:30AM - 10:20AM MTWR TUD 201,3
 30330,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30330,HIST 800,PH.D. RESEARCH,"Sidbury, James", TBA TBA,9 TO 12
+30164,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30164,HUMA 201,PUBLIC SPEAKING,"LaBove, Shannon D.",10:30AM - 12:00PM MTWRF RZR 204,3
+30464,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30464,HUMA 201,PUBLIC SPEAKING,"LaBove, Shannon D.",8:30AM - 10:15AM MTWRF RZR 302,3
+30165,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30165,HUMA 308,BUSINESS&PROFESSIONAL SPEAKING,"LaBove, Shannon D.",6:30PM - 8:00PM MTWRF RZR 202,3
+30162,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30162,HUMA 311,RHETORIC OF LEADERSHIP,"LaBove, Shannon D.",6:30PM - 9:00PM MTWRF RZR 202,3
+30157,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30157,HUMA 312,FOUNDATIONS OF LEADERSHIP,"LaBove, Shannon D.",11:15AM - 1:45PM MTWRF RZR 202,3
+30160,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30160,HUMA 312,FOUNDATIONS OF LEADERSHIP,"LaBove, Shannon D.",3:45PM - 5:15PM MTWRF RZR 204,3
+30166,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30166,HUMA 312,FOUNDATIONS OF LEADERSHIP,"LaBove, Shannon D.",12:30PM - 2:00PM MTWRF RZR 204,3
 30429,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30429,HURC 007,VISITING RESEARCH,, TBA TBA,0
+30438,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30438,HURC 007,VISITING RESEARCH,"El-Dahdah, Fares", TBA TBA,0
+30439,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30439,HURC 007,VISITING RESEARCH,"El-Dahdah, Fares", TBA TBA,0
+30221,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30221,JAPA 263,SECOND YEAR JAPANESE I,"Ozaki, Naoko", TBA TBA,3
+30222,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30222,JAPA 264,SECOND YEAR JAPANESE II,"Ozaki, Naoko", TBA TBA,3
+30123,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30123,KINE 301,HUMAN PHYSIOLOGY,"Papadakis, Zacharias",1:00PM - 3:30PM MTW BKH 102,3
+30124,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30124,KINE 310,PSYC OF SPORT & EXERCISE,"Perkins, Heidi Y.",9:30AM - 11:20AM MTWR HUM 120,3
+30377,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30377,KINE 319,STATS FOR HEALTH PROFESSIONAL,"Rodriguez, Augusto X.",1:00PM - 2:50PM MTWR SEW 207,3
+30158,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30158,LEAD 301,FOUNDATIONS OF LEADERSHIP,"LaBove, Shannon D.",11:15AM - 1:45PM MTWRF RZR 202,3
+30161,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30161,LEAD 301,FOUNDATIONS OF LEADERSHIP,"LaBove, Shannon D.",3:45PM - 5:15PM MTWRF RZR 204,3
+30167,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30167,LEAD 301,FOUNDATIONS OF LEADERSHIP,"LaBove, Shannon D.",12:30PM - 2:00PM MTWRF RZR 204,3
+30163,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30163,LEAD 320,RHETORIC OF LEADERSHIP,"LaBove, Shannon D.",6:30PM - 9:00PM MTWRF RZR 202,3
+30170,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30170,LEAD 321,LEADERSHIP COMMUNICATION,"Messmer, David K.",1:00PM - 2:50PM MTWR ABL 123,3
 30331,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30331,LING 581,GRADUATE RESEARCH,"Achard, Michel J.", TBA TBA,1 TO 12
 30332,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30332,LING 800,DISSERTATION RESEARCH,"Achard, Michel J.", TBA TBA,1 TO 12
+30126,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30126,LPAP 113,MENTAL TRAINING,"Slator, Elizabeth A.",9:40AM - 11:00AM MW GRW 160A,1
 30343,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30343,MACC 500,INTERNSHIP IN ACCOUNTING,"Lansford, Benjamin N.", TBA TBA,6
+30479,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30479,MATH 007,VISITING RESEARCH,"Hardt, Robert M.", TBA TBA,0
+30480,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30480,MATH 007,VISITING RESEARCH,"Hardt, Robert M.", TBA TBA,0
+30134,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30134,MATH 101,SINGLE VARIABLE CALCULUS I,"Johnson, Alexis",10:30AM - 12:00PM MTWRF HUM 227,3
+30385,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30385,MATH 101,SINGLE VARIABLE CALCULUS I,"Tan, Changhui",10:30AM - 12:00PM MTWRF RZR 310,3
+30378,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30378,MATH 102,SINGLE VARIABLE CALCULUS II,"Bernazzani, Daniel E.",10:30AM - 12:00PM MTWRF HRG 128,3
+30386,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30386,MATH 102,SINGLE VARIABLE CALCULUS II,"Roy, Arindam",10:30AM - 12:00PM MTWRF AEL B209,3
+30379,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30379,MATH 211,ORD DIFFERENTIAL EQUATIONS,"Orcan Ekmekci, Betul",10:30AM - 12:00PM MTWRF HBH 423,3
+30380,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30380,MATH 211,ORD DIFFERENTIAL EQUATIONS,"Yang, Hang",10:30AM - 12:00PM MTWRF HBH 453,3
+30141,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30141,MATH 212,MULTIVARIABLE CALCULUS,"Bucaj, Valmir",10:30AM - 12:00PM MTWRF HBH 453,3
+30381,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30381,MATH 212,MULTIVARIABLE CALCULUS,"Wolff, Stephen",10:30AM - 12:00PM MTWRF HBH 423,3
+30382,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30382,MATH 355,LINEAR ALGEBRA,"Seger, Sarah E.",10:30AM - 12:00PM MTWRF HBH 427,3
+30383,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30383,MATH 355,LINEAR ALGEBRA,"Do, Tam",10:30AM - 12:00PM MTWRF AEL B209,3
 30444,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30444,MATH 479,MATH UNDERGRADUATE RESEARCH,"Jones, Frank", TBA TBA,1 TO 3
 30468,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30468,MATH 479,MATH UNDERGRADUATE RESEARCH,"Roy, Arindam", TBA TBA,1 TO 3
+30354,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30354,MATH 690,SUPERVISED READING,"Harvey, Shelly L.", TBA TBA,1 TO 6
 30355,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30355,MATH 800,GRADUATE THESIS AND RESEARCH,"Boshernitzan, Michael", TBA TBA,1 TO 15
 30356,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30356,MATH 800,GRADUATE THESIS AND RESEARCH,"Damanik, David T.", TBA TBA,1 TO 15
 30357,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30357,MATH 800,GRADUATE THESIS AND RESEARCH,"Hardt, Robert M.", TBA TBA,1 TO 15
@@ -300,8 +407,13 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30248,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30248,MECH 800,RESEARCH AND THESIS,"Spanos, Pol D.", TBA TBA,1 TO 12
 30249,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30249,MECH 800,RESEARCH AND THESIS,"Bayazitoglu, Yildiz", TBA TBA,1 TO 12
 30218,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30218,MGMP 700,EDUCATION ENTREPRENEURSHIP,"Kehoe, Kim", TBA TBA,3
+30364,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30364,MGMT 673,COST ANALYSIS IN HEALTHCARE,"Sivaramakrishnan, Kartik K.", TBA TBA,1.5
 30217,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30217,MGMT 699,STRAT CONS IN CAP INV:HLTHCARE,"Laraway, Dennis", TBA TBA,1.5
+30434,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30434,MGMT 702,JONES EDGE INTERNATIONAL STUDY,"Ostdiek, Barbara", TBA TBA,.5 TO 1.5
 30216,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30216,MGMT 703,FIELD STUDY - AMERICAN BUS I,"Hartgrove, Abbey", TBA TBA,1
+30344,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30344,MGMT 848,APPLIED FINANCE,"Weston, James", TBA TBA,1.5
+30365,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30365,MICO 602,CUSTOMER FOCUS PRODUCT MGMT,"Mittal, Vikas", TBA TBA,1.5
+30220,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30220,MICO 603,STRATEGY DGN & MGMT: LOGISTICS,"Tadikamalla, Pandu", TBA TBA,1.5
 30349,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30349,MSNE 490,MATERIAL SCIENCE RESEARCH PROJ,"Ajayan, Pulickel M.", TBA TBA,1 TO 3
 30350,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30350,MSNE 490,MATERIAL SCIENCE RESEARCH PROJ,"Cordero, Zack", TBA TBA,1 TO 3
 30455,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30455,MSNE 490,MATERIAL SCIENCE RESEARCH PROJ,"Tang, Ming", TBA TBA,1 TO 3
@@ -319,11 +431,34 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30658,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30658,MSNE 800,RESEARCH AND THESIS,"Thomas, Ned", TBA TBA,1 TO 12
 30659,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30659,MSNE 800,RESEARCH AND THESIS,"Verduzco, Rafael", TBA TBA,1 TO 12
 30660,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30660,MSNE 800,RESEARCH AND THESIS,"Yakobson, Boris I.", TBA TBA,1 TO 12
+30146,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30146,MUSI 117,FUNDAMENTALS OF MUSIC I,"Monds, Shane R.",9:00AM - 11:30AM MTWRF APB 1402,3
 30403,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30403,NEUR 485,NEUROSCIENCE RESEARCH,"Dickman, J D.", TBA TBA,1 TO 3
 30430,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30430,NSCI 007,VISITING RESEARCH,"Nichol, Carolyn A.", TBA TBA,0
 30459,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30459,NSCI 410,MEDICAL LEADERSHIP RESEARCH,"Merlo, Gia", TBA TBA,1 TO 3
+30482,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30482,NSCI 580,CONTEMP TOPICS IN ELEM MATH,"Papakonstantinou, Anne", TBA TBA,1 TO 6
+30481,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30481,NSCI 585,CONTEMP TOPICS IN MDL SCH MATH,"Papakonstantinou, Anne", TBA TBA,1 TO 6
+30483,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30483,NSCI 590,CONTEMP TOPICS HIGH SCHL MATH,"Papakonstantinou, Anne", TBA TBA,1 TO 6
+30113,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30113,PHIL 100,PROBLEMS OF PHILOSOPHY,"Zuk, Peter D.",1:00PM - 3:30PM MTWRF HUM 227,3
+30115,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30115,PHIL 101,CONTEMPORARY MORAL ISSUES,"Kao, Ya-Yun",1:00PM - 2:50PM MTWR HUM 327,3
+30116,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30116,PHIL 101,CONTEMPORARY MORAL ISSUES,"Erdel, David",10:30AM - 12:00PM MTWRF HUM 227,3
+30367,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30367,PHIL 599,ADVANCED INDEPENDENT READING,"Crowell, Steven G.", TBA TBA,1 TO 6
 30334,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30334,PHIL 800,RESEARCH AND THESIS,"Crowell, Steven G.", TBA TBA,1 TO 15
 30335,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30335,PHYS 007,VISITING RESEARCH,"Hulet, Randy", TBA TBA,0
+30451,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30451,PHYS 007,VISITING RESEARCH,"Onuchic, Jose", TBA TBA,0
+30452,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30452,PHYS 007,VISITING RESEARCH,"Onuchic, Jose", TBA TBA,0
+30471,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30471,PHYS 007,VISITING RESEARCH,"Padley, Paul", TBA TBA,0
+30472,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30472,PHYS 007,VISITING RESEARCH,"Kiang, Ching-Hwa", TBA TBA,0
+30575,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30575,PHYS 007,VISITING RESEARCH,"Si, Qimiao", TBA TBA,0
+30193,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30193,PHYS 101,MECHANICS (WITH LAB),"Yu, Lam H.; Cone, Michael T.","10:00AM - 11:40AM MTWRF RZR 204
+1:00PM - 4:00PM WF HRZ 207",4
+30195,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30195,PHYS 102,ELECTRICITY&MAGNETISM W/LAB,"Cone, Michael T.; Yu, Lam H.","10:00AM - 11:40AM MTWRF HBH 21
+1:00PM - 4:00PM WF HRZ 207",4
+30194,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30194,PHYS 103,MECHANICS DISCUSSION,"Yu, Lam H.; Cone, Michael T.", TBA TBA,0
+30196,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30196,PHYS 104,E & M DISCUSSION,"Cone, Michael T.; Yu, Lam H.", TBA TBA,0
+30197,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30197,PHYS 125,GENERAL PHYSICS (WITH LAB),"Beaird, Robert P.; Stenson, Jared R.","10:00AM - 11:40AM MTWRF MEB 128
+1:00PM - 4:00PM WF HRZ 218",4
+30198,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30198,PHYS 126,GENERAL PHYSICS II (WITH LAB),"Beaird, Robert P.; Stenson, Jared R.","10:00AM - 11:40AM MTWRF MEB 128
+1:00PM - 4:00PM WF HRZ 218",4
 30061,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30061,PHYS 800,GRADUATE RESEARCH,"Baring, Matthew G.", TBA TBA,1 TO 15
 30566,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30566,PHYS 800,GRADUATE RESEARCH,"Bradshaw, Stephen", TBA TBA,1 TO 15
 30567,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30567,PHYS 800,GRADUATE RESEARCH,"Chan, Anthony A.", TBA TBA,1 TO 15
@@ -360,6 +495,8 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30599,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30599,PHYS 800,GRADUATE RESEARCH,"Si, Qimiao", TBA TBA,1 TO 15
 30600,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30600,PHYS 800,GRADUATE RESEARCH,"Toffoletto, Frank R.", TBA TBA,1 TO 15
 30601,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30601,PHYS 800,GRADUATE RESEARCH,"Wolynes, Peter", TBA TBA,1 TO 15
+30466,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30466,POLI 595,DIR READ-INTERNT'L RELATIONS,"Stoll, Richard J.", TBA TBA,3
+30467,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30467,POLI 596,DIR READ-INTERNAT'L RELATIONS,"Stoll, Richard J.", TBA TBA,3
 30214,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30214,POLI 600,MA RESEARCH AND THESIS,"Stevenson, Randolph T.", TBA TBA,1 TO 15
 30215,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30215,POLI 800,PH.D. RESEARCH AND THESIS,"Stevenson, Randolph T.", TBA TBA,1 TO 15
 30233,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30233,POLI 800,PH.D. RESEARCH AND THESIS,"Jones, Mark P.", TBA TBA,1 TO 15
@@ -369,6 +506,11 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30237,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30237,POLI 800,PH.D. RESEARCH AND THESIS,"Stein, Robert M.", TBA TBA,1 TO 15
 30238,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30238,POLI 800,PH.D. RESEARCH AND THESIS,"Stevenson, Randolph T.", TBA TBA,1 TO 15
 30239,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30239,POLI 800,PH.D. RESEARCH AND THESIS,"Stoll, Richard J.", TBA TBA,1 TO 15
+30255,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30255,POST 415,ENGAGED RESEARCH SEMINAR,"Ostdiek, Donald H.", TBA TBA,3
+30256,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30256,POST 416,ENGAGED URBAN RESEARCH LAB,"Ostdiek, Donald H.", TBA TBA,3
+30062,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30062,PSYC 101,INTRODUCTION TO PSYCHOLOGY,"Zajac, Stephanie; Trump, Rachel C.",10:00AM - 12:30PM MTWRF SEW 462,3
+30064,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30064,PSYC 203,INTRO TO COGNITIVE PSYCHOLOGY,"Dial, Heather R.",1:00PM - 4:00PM MWF SEW 462,3
+30065,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30065,PSYC 231,INDUS & ORGANIZATIONAL PSYC,"Ghosh, Kamalika",6:45PM - 9:15PM MWF SEW 462,3
 30069,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30069,PSYC 485,UG SUPERVISED RESEARCH,"Beier, Margaret E.", TBA TBA,1 TO 3
 30070,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30070,PSYC 485,UG SUPERVISED RESEARCH,"Byrne, Michael D.", TBA TBA,1 TO 3
 30071,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30071,PSYC 485,UG SUPERVISED RESEARCH,"Dannemiller, Jim", TBA TBA,1 TO 3
@@ -385,6 +527,7 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30082,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30082,PSYC 485,UG SUPERVISED RESEARCH,"Salas, Eduardo", TBA TBA,1 TO 3
 30083,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30083,PSYC 485,UG SUPERVISED RESEARCH,"Wetter, David W.", TBA TBA,1 TO 3
 30461,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30461,PSYC 485,UG SUPERVISED RESEARCH,"Gurcanli, Ozge", TBA TBA,1 TO 3
+30375,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30375,PSYC 563,COGNITIVE PSYC INTERNSHIP,"Lane, David M.", TBA TBA,1 TO 9
 30016,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30016,PSYC 573,NON-THESIS GRADUATE RESEARCH,"Beier, Margaret E.", TBA TBA,1 TO 6
 30019,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30019,PSYC 573,NON-THESIS GRADUATE RESEARCH,"Byrne, Michael D.", TBA TBA,1 TO 6
 30022,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30022,PSYC 573,NON-THESIS GRADUATE RESEARCH,"Dannemiller, Jim", TBA TBA,1 TO 6
@@ -400,6 +543,8 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30052,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30052,PSYC 573,NON-THESIS GRADUATE RESEARCH,"Pomerantz, James R.", TBA TBA,1 TO 6
 30055,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30055,PSYC 573,NON-THESIS GRADUATE RESEARCH,"Salas, Eduardo", TBA TBA,1 TO 6
 30058,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30058,PSYC 573,NON-THESIS GRADUATE RESEARCH,"Wetter, David W.", TBA TBA,1 TO 6
+30376,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30376,PSYC 639,I/O PSYCHOLOGY INTERNSHIP,"Lane, David M.", TBA TBA,1 TO 9
+30366,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30366,PSYC 649,HF/HCI PSYC INTERNSHIP,"Salas, Eduardo", TBA TBA,1 TO 9
 30017,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30017,PSYC 700,THESIS RESEARCH,"Beier, Margaret E.", TBA TBA,1 TO 15
 30020,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30020,PSYC 700,THESIS RESEARCH,"Byrne, Michael D.", TBA TBA,1 TO 15
 30023,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30023,PSYC 700,THESIS RESEARCH,"Dannemiller, Jim", TBA TBA,1 TO 15
@@ -444,7 +589,39 @@ CRN,URL,Course,Title,Instructors,Course Meeting,Credits
 30603,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30603,RELI 800,RESEARCH AND THESIS,"Henze, Matthias", TBA TBA,9
 30604,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30604,RELI 800,RESEARCH AND THESIS,"Parsons, William B.", TBA TBA,9
 30605,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30605,RELI 800,RESEARCH AND THESIS,"Pinn, Anthony B.", TBA TBA,9
+30184,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30184,SMGT 260,INTRO TO SPORT MANAGEMENT,"Crossey, Diane M.",7:00PM - 9:30PM MTR TUD 201,3
+30177,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30177,SMGT 276,SPORT MANAGEMENT PRACTICUM,"Stallings, Tom",7:00PM - 8:50PM MTWR HUM 327,3
+30180,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30180,SMGT 350,SPORT ETHICS,"Haptonstall, Clark D.",7:00PM - 9:30PM MWF TBA TBA,3
+30181,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30181,SMGT 350,SPORT ETHICS,"Haptonstall, Clark D.",7:00PM - 9:30PM MWF TBA TBA,3
+30428,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30428,SMGT 350,SPORT ETHICS,"Haptonstall, Clark D.",7:00PM - 9:30PM MWF TBA TBA,3
+30179,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30179,SMGT 360,SALES & REVENUE GENERATION,"Stallings, Tom",1:00PM - 2:50PM MTWR HUM 327,3
+30340,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30340,SMGT 362,SPORT MARKETING,"Haptonstall, Clark D.", TBA TBA,3
+30178,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30178,SMGT 379,SPORT MANAGEMENT INTERNSHIP 4,"Stallings, Tom", TBA TBA,1 TO 6
+30433,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30433,SMGT 415,THEORIES-HIGH LVL PERFORMANCE,"Disch, James G.",1:00PM - 2:50PM MTWR HUM 120,3
 30338,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30338,SOCI 500,SUMMER RESEARCH,"Bratter, Jenifer L.", TBA TBA,1 TO 15
+30684,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30684,SOSC 421,INTERNSHIP,"Ostdiek, Donald H.", TBA TBA,1 TO 3
+30225,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30225,SPAN 263,SECOND YEAR SPANISH I,"Turi, Luziris P.", TBA TBA,3
+30226,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30226,SPAN 264,SECOND YEAR SPANISH II,"Turi, Luziris P.", TBA TBA,3
+30231,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30231,SPAN 322,SPECIAL TOPICS: ADV SPANISH II,"Abad Rabat, Maria Victoria", TBA TBA,3
+30232,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30232,SPAN 324,SPANISH PROFESSIONAL APPR II,"Abad Rabat, Maria Victoria", TBA TBA,3
 30339,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30339,SSPB 800,GRADUATE RESEARCH,"Silberg, Joff", TBA TBA,1 TO 15
+30147,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30147,STAT 310,PROBABILITY & STATISTICS,"Dobelman, John A.",1:00PM - 4:30PM TR DCH 1042,3
+30211,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30211,STAT 590,INDEPENDENT STUDY,"Hobbs, Brian P.", TBA TBA,1 TO 15
+30548,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30548,STAT 590,INDEPENDENT STUDY,"Shaw, Chad A.", TBA TBA,1 TO 15
+30549,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30549,STAT 590,INDEPENDENT STUDY,"Scott, David W.", TBA TBA,1 TO 15
+30550,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30550,STAT 590,INDEPENDENT STUDY,"Allen, Genevera I.", TBA TBA,1 TO 15
+30551,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30551,STAT 590,INDEPENDENT STUDY,, TBA TBA,1 TO 15
+30552,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30552,STAT 590,INDEPENDENT STUDY,"Morris, Jeffrey S.", TBA TBA,1 TO 15
+30553,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30553,STAT 590,INDEPENDENT STUDY,"Ensor, Katherine", TBA TBA,1 TO 15
+30554,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30554,STAT 590,INDEPENDENT STUDY,"Kimmel, Marek", TBA TBA,1 TO 15
+30555,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30555,STAT 590,INDEPENDENT STUDY,"Vannucci, Marina", TBA TBA,1 TO 15
+30556,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30556,STAT 590,INDEPENDENT STUDY,"Vannucci, Marina; Stingo, Francesco C.", TBA TBA,1 TO 15
+30557,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30557,STAT 590,INDEPENDENT STUDY,"Schweinberger, Michael", TBA TBA,1 TO 15
+30558,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30558,STAT 590,INDEPENDENT STUDY,"Thall, Peter F.", TBA TBA,1 TO 15
+30559,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30559,STAT 590,INDEPENDENT STUDY,"Ernst, Philip A.", TBA TBA,1 TO 15
+30560,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30560,STAT 590,INDEPENDENT STUDY,"Guerra, Rudy", TBA TBA,1 TO 15
+30561,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30561,STAT 590,INDEPENDENT STUDY,"Yuan, Ying", TBA TBA,1 TO 15
 30447,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30447,STAT 800,THESIS,"Vannucci, Marina; Guindani, Michele", TBA TBA,1 TO 15
 30448,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30448,STAT 800,THESIS,"Ensor, Katherine", TBA TBA,1 TO 15
+30208,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30208,UNIV 599,TEACHING PORTFOLIO,"Barre, Betsy", TBA TBA,2
+30212,/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201630&p_crn=30212,UNIV 601,ORAL COMMUNICATION SKILLS,"Belik, Katerina",10:00AM - 12:05PM MTWR RZR 302,2
