@@ -141,7 +141,6 @@
 
             $.getJSON("./collated.json", function(data) {
 
-                console.log(data);
                 var years = {}
                 Object.keys(data).forEach(key => {
                     var keySplit = key.split(" ");
@@ -238,7 +237,6 @@
                         $glance.append(`<p>Distribution: ${data["Distribution Group"][course]}</p>`);
                     }
                     $glance.append(`<p>More info: <a href='https://courses.rice.edu${data.URL[course]}' target="_blank">Link</a></p>`);
-                    // $details.html("<h3>" + course + "</h3>");
                     $details.append("<table class='offer-hist'></table>");
                     $table = $(".offer-hist");
                     var thead = "<thead><tr>" +
@@ -270,7 +268,6 @@
                     $table.append(tbody);
                 });
 
-                // console.log();
             });
 
 
