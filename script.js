@@ -25,7 +25,7 @@ function executeSearch(queryString){
             }
         }
     });
-    let sorted = Object.entries(match_strengths).sort(([,a],[,b]) => a-b).slice(-20).reverse();
+    let sorted = Object.entries(match_strengths).sort(([,a],[,b]) => a-b).slice(-50).reverse();
     sorted.forEach((match) => {
         let courseTitle = match[0];
         let match_strength = match[1];
