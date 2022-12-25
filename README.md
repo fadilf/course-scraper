@@ -2,7 +2,7 @@
 A utility for course planning at Rice University and dataset for playing around.
 
 ## The utility
-The utility can be seen [here](https://fadileledath.com/course-util/web-interface/) and is used to see when courses have historically been offered.
+The utility can be seen [here](https://fadileledath.com/course-history/) and is used to see when courses have historically been offered.
 
 ## The dataset
 The dataset is scraped using Python using two separate Jupyter notebooks and collated using a third notebook. It consists of:
