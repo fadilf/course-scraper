@@ -14,7 +14,7 @@ function executeSearch(queryString){
 
     let match_strengths = {}
     query.forEach(word => {
-        if (word.length) {
+        if (word.length && (word in strengths)) {
             for (const [courseIdx, courseWordStrength] of Object.entries(strengths[word])) {
                 let courseName = indices[courseIdx];
                 if (courseName in match_strengths) {
@@ -157,14 +157,17 @@ $.getJSON("./collated.json", function(data) {
     });
 
     $("#course-name").on("input", function(){
-        searchPipeline($(this).val());
+        if ($(this).val().trim().length == 0) {
+            $("#results li").css("display", "inline-block");
+            $("#results li").css("order", 0);
+        } else {
+            searchPipeline($(this).val());
+        }
     });
 
     $.getJSON("./index.json", function(searchIndex) {
-
         strengths = searchIndex["strengths"];
         indices = searchIndex["indices"];
-
     });
 
 });
