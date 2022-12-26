@@ -46,7 +46,7 @@ function searchPipeline(queryString){
     }
 }
 
-$.getJSON("./collated.json", function(data) {
+$.getJSON("../collated.json", function(data) {
 
     let years = {}
     Object.keys(data).forEach(key => {
@@ -165,7 +165,7 @@ $.getJSON("./collated.json", function(data) {
         }
     });
 
-    $.getJSON("./index.json", function(searchIndex) {
+    $.getJSON("../index.json", function(searchIndex) {
         strengths = searchIndex["strengths"];
         indices = searchIndex["indices"];
     });
