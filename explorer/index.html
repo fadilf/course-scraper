@@ -13,16 +13,14 @@
 
 <body>
     <main class="d-flex flex-nowrap" data-bs-theme="dark">
-        <div class="d-flex flex-column align-items-stretch flex-shrink-0 bg-dark">
-            <a href="./"
-                class="d-flex align-items-center flex-shrink-0 p-3 text-white text-decoration-none border-bottom">
+        <div class="d-flex flex-column align-items-stretch flex-shrink-0 bg-dark" style="max-width: 20em;">
+            <div class="d-flex align-items-center flex-shrink-0 p-3 text-white text-decoration-none border-bottom">
                 <span class="fs-5 fw-semibold">Course Explorer</span>
-            </a>
+            </div>
             <div class="list-group list-group-flush border-bottom scrollarea">
                 <div class="list-group-item list-group-item py-3 lh-sm">
                     <div class="d-flex w-100 align-items-center justify-content-between">
-                        <label for="academic-semester" class="form-label"><strong class="mb-1">Academic
-                                Semester</strong></label>
+                        <label for="academic-semester" class="form-label"><strong class="mb-1">Academic Semester</strong></label>
                     </div>
                     <div class="col-10 mb-1 small">
                         <select id="academic-semester" class="form-select" aria-label="Semester">
@@ -51,8 +49,7 @@
                 </div>
                 <div class="list-group-item list-group-item py-3 lh-sm">
                     <div class="d-flex w-100 align-items-center justify-content-between">
-                        <label for="distribution-group" class="form-label"><strong class="mb-1">Distribution
-                                Group</strong></label>
+                        <label for="distribution-group" class="form-label"><strong class="mb-1">Distribution Group</strong></label>
                     </div>
                     <div class="col-10 mb-1 small">
                         <select id="distribution-group" class="form-select" aria-label="Distribution Group">
@@ -65,8 +62,7 @@
                 </div>
                 <div class="list-group-item list-group-item py-3 lh-sm">
                     <div class="d-flex w-100 align-items-center justify-content-between">
-                        <label for="diversity" class="form-label"><strong class="mb-1">Analyzing
-                                Diversity</strong></label>
+                        <label for="diversity" class="form-label"><strong class="mb-1">Analyzing Diversity</strong></label>
                     </div>
                     <div class="col-10 mb-1 small">
                         <div class="form-group">
@@ -79,6 +75,23 @@
                         </div>
                     </div>
                 </div>
+                <div class="list-group-item list-group-item lh-sm">
+                    <div class="d-inline-flex flex-wrap align-items-center justify-content-between">
+                        <p id="attr" class="my-1 small">
+                            Made by Fadil Eledath. View on <a href="https://github.com/fadilf/course-scraper/" target="_blank">GitHub</a>. Other course tools <a href="https://fadileledath.com/RiceCourseUtilities/" target="_blank">here</a>.
+                        </p>
+                    </div>
+                </div>
+                    <!-- <div class="col-10 mb-1 small">
+                        <div class="form-group">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="diversity">
+                                <label class="form-check-label" for="diversity">
+                                    Only Analyzing Diversity courses
+                                </label>
+                            </div>
+                        </div>
+                    </div> -->
             </div>
         </div>
 
