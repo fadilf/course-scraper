@@ -1,0 +1,16 @@
+{
+  "name": "json-search",
+  "collaborators": [
+    "Fadil Eledath <fadilfaizal@gmail.com>"
+  ],
+  "description": "Search JSON files of the appropriate format",
+  "version": "0.1.0",
+  "files": [
+    "json_search_bg.wasm",
+    "json_search.js",
+    "json_search.d.ts"
+  ],
+  "module": "json_search.js",
+  "types": "json_search.d.ts",
+  "sideEffects": false
+}
