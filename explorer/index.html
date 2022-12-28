@@ -6,7 +6,7 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-L536E2FBC2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
 
         gtag('config', 'G-L536E2FBC2');
@@ -29,11 +29,12 @@
             <div class="list-group list-group-flush border-bottom scrollarea">
                 <div class="list-group-item list-group-item py-3 lh-sm">
                     <div class="d-flex w-100 align-items-center justify-content-between">
-                        <label for="academic-semester" class="form-label"><strong class="mb-1">Academic Semester</strong></label>
+                        <label for="academic-semester" class="form-label"><strong class="mb-1">Academic
+                                Semester</strong></label>
                     </div>
                     <div class="col-10 mb-1 small">
                         <select id="academic-semester" class="form-select" aria-label="Semester">
-                            <option value="" selected>Any semester</option>
+                            <option value="-1" selected>Any semester</option>
                         </select>
                     </div>
                 </div>
@@ -58,7 +59,8 @@
                 </div>
                 <div class="list-group-item list-group-item py-3 lh-sm">
                     <div class="d-flex w-100 align-items-center justify-content-between">
-                        <label for="distribution-group" class="form-label"><strong class="mb-1">Distribution Group</strong></label>
+                        <label for="distribution-group" class="form-label"><strong class="mb-1">Distribution
+                                Group</strong></label>
                     </div>
                     <div class="col-10 mb-1 small">
                         <select id="distribution-group" class="form-select" aria-label="Distribution Group">
@@ -71,7 +73,8 @@
                 </div>
                 <div class="list-group-item list-group-item py-3 lh-sm">
                     <div class="d-flex w-100 align-items-center justify-content-between">
-                        <label for="diversity" class="form-label"><strong class="mb-1">Analyzing Diversity</strong></label>
+                        <label for="diversity" class="form-label"><strong class="mb-1">Analyzing
+                                Diversity</strong></label>
                     </div>
                     <div class="col-10 mb-1 small">
                         <div class="form-group">
@@ -87,20 +90,12 @@
                 <div class="list-group-item list-group-item lh-sm">
                     <div class="d-inline-flex flex-wrap align-items-center justify-content-between">
                         <p id="attr" class="my-1 small">
-                            Made by Fadil Eledath. View on <a href="https://github.com/fadilf/course-scraper/" target="_blank">GitHub</a>. Other course tools <a href="https://fadileledath.com/RiceCourseUtilities/" target="_blank">here</a>.
+                            Made by Fadil Eledath. View on <a href="https://github.com/fadilf/course-scraper/"
+                                target="_blank">GitHub</a>. Other course tools <a
+                                href="https://fadileledath.com/RiceCourseUtilities/" target="_blank">here</a>.
                         </p>
                     </div>
                 </div>
-                    <!-- <div class="col-10 mb-1 small">
-                        <div class="form-group">
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="diversity">
-                                <label class="form-check-label" for="diversity">
-                                    Only Analyzing Diversity courses
-                                </label>
-                            </div>
-                        </div>
-                    </div> -->
             </div>
         </div>
 
@@ -126,7 +121,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
         crossorigin="anonymous"></script>
-    <script src="./script.js"></script>
+    <script type="module" src="./script.js"></script>
 </body>
 
 </html>

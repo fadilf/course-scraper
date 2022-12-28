@@ -116,15 +116,7 @@ thead {
     top: 0;
 }
 
-#course-rows tr {
-    display: none;
-}
-
-#course-rows tr.visible {
-    display: table-row;
-}
-
-#course-rows tr.evens {
+#course-rows tr:nth-of-type(2n - 1) {
     --bs-table-accent-bg: var(--bs-table-striped-bg);
     color: var(--bs-table-striped-color);
 }
