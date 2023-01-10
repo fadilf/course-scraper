@@ -1,4 +1,4 @@
-import init, { setup, render_results } from "../pkg/json_search.js";
+import init, { setup, render_results } from "./json-search/pkg/json_search.js";
 
 init().then(() => {
     let jsonLoadPromise = setup(new URL("../collated_min.json", document.baseURI).href);
